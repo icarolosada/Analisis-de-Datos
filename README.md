@@ -26,11 +26,13 @@ Los conjuntos de datos contienen distinta información meteorológica de interé
 
 
 ### 3.2 Herramientas
-Para la realización de las tareas de preprocesado de los datos, realizar consultas, modificaciones y gestión de datos se ha utilizado el lenguaje de SQL descrito en un archivo .md alojado en la seccion de código alojado en esta misma carpeta, para revisarlo simplemente pinca en el siguente enlace [Códico](https://github.com/icarolosada/Analisis-de-Datos/blob/main/Codigo.md).
+Para la realización de las tareas de preprocesado de los datos, realizar consultas, modificaciones y gestión de datos se ha utilizado el lenguaje de SQL en MySQL Workbench, todo  descrito en un archivo Markdown alojado en la seccion de código alojado en esta misma carpeta, para revisarlo simplemente pinca en el siguente enlace [Códico](https://github.com/icarolosada/Analisis-de-Datos/blob/main/Codigo.md).
 
-"Google Colab" o, también llamado Google Colaboratory, es un servicio en la nube de Google Research que permite programar, ejecutar y compartir código escrito en Python o R sobre un Jupyter Notebook desde tu navegador, por lo que no requiere configuración. Este servicio es gratuito.
+Para la visualizacion de gráficas se ha utilizado el lenguaje de programación Python sobre un Notebook de Jupyter el cuál esta alojado en la carpeta de Visualizaciones que puede acceder [aki](http://xxx.xxx) se ha utilizado la libreria [[Matplotlib](https://matplotlib.org/)](https://matplotlib.org/) 
 
-Para la creación de las visualizaciones se ha usado la librería [ggplot2](https://ggplot2.tidyverse.org/).
+Jupyter Notebook es una herramienta poderosa y versátil que permite programar, ejecutar y compartir código de manera interactiva. Es un entorno de desarrollo basado en web que facilita la creación y edición de documentos en los que se pueden combinar código, visualizaciones, texto explicativo y otros elementos.
+
+Para la creación de las visualizaciones se ha usado la librería Matplotlib, es una biblioteca completa para crear visualizaciones estáticas, animadas e interactivas en Python
 
 "ggplot2" es un paquete de visualización de datos para el lenguaje de programación R. Se centra en la construcción de gráficos a partir de capas de elementos estéticos, geométricos y estadísticos. ggplot2 ofrece una amplia gama de gráficos estadísticos de alta calidad, incluyendo gráficos de barras, gráficos de líneas, diagramas de dispersión, gráficos de caja y bigotes, y muchos otros  
 
