@@ -1,30 +1,32 @@
 # Análisis Histórico del Clima: Tendencias y Variabilidad en España
 
 ## 1. Introducción
-El clima es un factor fundamental que influye en diversos aspectos de nuestra vida, desde la agricultura y la seguridad alimentaria hasta la planificación urbana y la gestión de recursos hídricos. Comprender las tendencias y la variabilidad del clima es crucial para tomar decisiones informadas y desarrollar estrategias efectivas en respuesta al cambio climático.En este proyecto, nos centraremos en analizar el histórico del clima en España. Utilizando una combinación de datos recopilados de diversas fuentes confiables, como la National Oceanic and Atmospheric Administration (NOAA), Embalses.net y DatosClima.es, investigaremos las tendencias y la variabilidad de variables climáticas clave, como la temperatura y la precipitación, a lo largo del tiempo.  
+El clima es un factor fundamental que influye en diversos aspectos de nuestra vida, desde la agricultura y la seguridad alimentaria hasta la planificación urbana y la gestión de recursos hídricos. Comprender las tendencias y la variabilidad del clima es crucial para tomar decisiones informadas y desarrollar estrategias efectivas en respuesta al cambio climático.En este proyecto, nos centraremos en analizar el histórico del clima en España.Utilizando una combinación de datos recopilados de diversas fuentes confiables, como la [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/), [Embalses.net](https://www.embalses.net/) y [DatosClima.es](https://datosclima.es/index.htm), investigaremos las tendencias y la variabilidad de variables climáticas clave, como la temperatura y la precipitación, a lo largo del tiempo.  
 
+
+Para llevar a cabo este análisis, utilizaremos técnicas de procesamiento de datos y visualización para explorar y comprender los patrones climáticos en diferentes regiones de España. También examinaremos la relación entre las variables climáticas y otros fenómenos, como la disponibilidad de agua en embalses y estaciones hidrológicas.
 
 ## 2. Objetivo
-El objetivo principal de este ejercicio es hacer un análisis de los datos meteorológicos recogidos en varias estaciones durante los últimos años. Para realizar este análisis utilizaremos distintas visualizaciones generadas mediante la librería “ggplot2” del lenguaje de programación “R” 
+El objetivo principal de este proyecto es obtener información valiosa sobre las tendencias climáticas en España y su impacto en el entorno natural y las actividades humanas. Este conocimiento nos ayudará a comprender mejor los desafíos que enfrentamos en la gestión del agua y a desarrollar estrategias para mitigar peridos de escased.
 
-De todas las estaciones meteorológicas españolas, hemos decidido analizar dos de ellas, una en la provincia más fría del país (Burgos) y otra en la provincia más cálida del país (Córdoba), según los datos de la AEMET. Se buscarán patrones y tendencias en los distintos registros entre los años 1990 y 2020 con la finalizad de entender la evolución meteorológica sufrida en este periodo de tiempo. 
+Para realizar este análisis utilizaremos distintas visualizaciones generadas mediante la librería “xxxx” del lenguaje de programación “Python” 
+
+Se han utilizado datos de todas las estaciones meteorológicas españolas, se buscarán patrones y tendencias en los distintos registros entre los años 1990 y 2020 con la finalizad de entender la evolución meteorológica sufrida en este periodo de tiempo. 
 
 Una vez analizados los datos, podremos contestar a preguntas como las que se muestran a continuación: 
 ¿Cuál es la tendencia en la evolución de las temperaturas en los últimos años? 
-¿Cuál es la tendencia en la evolución de las precipitaciones en los últimos años? 
-¿Qué estación meteorológica (Burgos o Córdoba) presenta una mayor variación de los datos climatológicos en estos últimos años? 
+¿Cuál es la tendencia en la evolución de las precipitaciones en los últimos años?  
 ¿Qué grado de correlación hay entre las distintas variables climatológicas registradas? 
 
-Estas, y muchas otras preguntas pueden ser resueltas mediante el uso de herramientas como ggplot2 que facilitan la interpretación de los datos mediante visualizaciones interactivas.
+Estas, y muchas otras preguntas pueden ser resueltas mediante el uso de herramientas que facilitan la interpretación de los datos mediante visualizaciones interactivas.
 
 ## 3. Recursos
 ### 3.1 Conjunto de datos
-Los conjuntos de datos contienen distinta información meteorológica de interés para las dos estaciones en cuestión desglosados por año. Dentro del centro de descargas de la AEMET, podremos descárgalos, previa solicitud de la clave API, en el apartado “climatologías mensuales/anuales”. De las estaciones meteorológicas existentes, hemos seleccionado dos de las que obtendremos los datos: Burgos aeropuerto (2331) y Córdoba aeropuerto (5402) 
+Los conjuntos de datos contienen distinta información meteorológica de interés para la cuestión estan desglosados por año. Dentro del centro de descargas de "National Oceanic and Atmospheric Administration (NOAA)", podremos descárgalos, en el apartado de descargas. Igualmente en la iformación historica de los embalses es pulbica en embalses.net y el resto en DatosClima.es
 
-Cabe destacar, que, junto a los conjuntos de datos, también podremos descargar sus metadatos, los cuales son de especial importancia a la hora de identificar las distintas variables registradas en los conjuntos de datos. Estos conjuntos de datos también se encuentran disponibles en el repositorio [laboratorio de datos de Github](https://github.com/datosgobes/Laboratorio-de-Datos/tree/main/Visualizaciones/Analisis_datos_meteorologicos)
 
 ### 3.2 Herramientas
-Para la realización de las tareas de preprocesado de los datos se ha utilizado el lenguaje de programación R escrito sobre un Notebook de Jupyter alojado en el servicio en la nube de [Google Colab](https://colab.research.google.com/?hl=es).
+Para la realización de las tareas de preprocesado de los datos, realizar consultas, modificaciones y gestión de datos se ha utilizado el lenguaje de SQL descrito en un archivo .md alojado en la seccion de código alojado en esta misma carpeta, para revisarlo simplemente pinca en el siguente enlace [Códico](https://github.com/icarolosada/Analisis-de-Datos/blob/main/Codigo.md).
 
 "Google Colab" o, también llamado Google Colaboratory, es un servicio en la nube de Google Research que permite programar, ejecutar y compartir código escrito en Python o R sobre un Jupyter Notebook desde tu navegador, por lo que no requiere configuración. Este servicio es gratuito.
 
