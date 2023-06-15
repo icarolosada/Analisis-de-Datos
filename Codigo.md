@@ -2,9 +2,9 @@
 
 Los datos utilizados en este proyecto fueron recopilados de varias fuentes en línea, incluyendo:
 
-- NOAA (National Oceanic and Atmospheric Administration): [https://www.noaa.gov/]
-- Embalses.net: [https://www.embalses.net/]
-- DatosClima.es: [https://datosclima.es/index.htm]
+- [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/)
+- [Embalses.net](https://www.embalses.net/)
+- [DatosClima.es](https://datosclima.es/index.htm)
 
 Debido a la gran cantidad de archivos y la ineficiencia de la importación directa a MySQL, se optó por utilizar Python para realizar la carga de los datos. A continuación, se presenta el código utilizado:
 
