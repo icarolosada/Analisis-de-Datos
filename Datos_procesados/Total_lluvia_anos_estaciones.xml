@@ -1,0 +1,621 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Id_estacion</Data></Cell>
+			<Cell><Data ss:Type="String">NOMBRE_ESTACION</Data></Cell>
+			<Cell><Data ss:Type="String">decada</Data></Cell>
+			<Cell><Data ss:Type="String">total_lluvia</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">SP000004452</Data></Cell>
+			<Cell><Data ss:Type="String">BADAJOZ/TALAVERA LA REAL</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">24348</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000004452</Data></Cell>
+			<Cell><Data ss:Type="String">BADAJOZ/TALAVERA LA REAL</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">106607</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000004452</Data></Cell>
+			<Cell><Data ss:Type="String">BADAJOZ/TALAVERA LA REAL</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">88094</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000004452</Data></Cell>
+			<Cell><Data ss:Type="String">BADAJOZ/TALAVERA LA REAL</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">85064</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000004452</Data></Cell>
+			<Cell><Data ss:Type="String">BADAJOZ/TALAVERA LA REAL</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">13748</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000006155</Data></Cell>
+			<Cell><Data ss:Type="String">MALAGA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">88052</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000006155</Data></Cell>
+			<Cell><Data ss:Type="String">MALAGA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">126400</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000006155</Data></Cell>
+			<Cell><Data ss:Type="String">MALAGA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">101993</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000006155</Data></Cell>
+			<Cell><Data ss:Type="String">MALAGA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">100517</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000006155</Data></Cell>
+			<Cell><Data ss:Type="String">MALAGA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">13033</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000007038</Data></Cell>
+			<Cell><Data ss:Type="String">TORREVIEJA</Data></Cell>
+			<Cell><Data ss:Type="String">1920s</Data></Cell>
+			<Cell><Data ss:Type="Number">31374</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000007038</Data></Cell>
+			<Cell><Data ss:Type="String">TORREVIEJA</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">54286</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000007038</Data></Cell>
+			<Cell><Data ss:Type="String">TORREVIEJA</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">47896</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000007038</Data></Cell>
+			<Cell><Data ss:Type="String">TORREVIEJA</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">53150</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000007038</Data></Cell>
+			<Cell><Data ss:Type="String">TORREVIEJA</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">57554</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000007038</Data></Cell>
+			<Cell><Data ss:Type="String">TORREVIEJA</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">11502</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008027</Data></Cell>
+			<Cell><Data ss:Type="String">SAN SEBASTIAN - IGUELDO</Data></Cell>
+			<Cell><Data ss:Type="String">1900s</Data></Cell>
+			<Cell><Data ss:Type="Number">21580</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008027</Data></Cell>
+			<Cell><Data ss:Type="String">SAN SEBASTIAN - IGUELDO</Data></Cell>
+			<Cell><Data ss:Type="String">1920s</Data></Cell>
+			<Cell><Data ss:Type="Number">192810</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008027</Data></Cell>
+			<Cell><Data ss:Type="String">SAN SEBASTIAN - IGUELDO</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">302375</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008027</Data></Cell>
+			<Cell><Data ss:Type="String">SAN SEBASTIAN - IGUELDO</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">324762</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008027</Data></Cell>
+			<Cell><Data ss:Type="String">SAN SEBASTIAN - IGUELDO</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">305846</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008027</Data></Cell>
+			<Cell><Data ss:Type="String">SAN SEBASTIAN - IGUELDO</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">314583</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008027</Data></Cell>
+			<Cell><Data ss:Type="String">SAN SEBASTIAN - IGUELDO</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">51868</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008181</Data></Cell>
+			<Cell><Data ss:Type="String">BARCELONA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1920s</Data></Cell>
+			<Cell><Data ss:Type="Number">41925</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008181</Data></Cell>
+			<Cell><Data ss:Type="String">BARCELONA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">110872</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008181</Data></Cell>
+			<Cell><Data ss:Type="String">BARCELONA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">133505</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008181</Data></Cell>
+			<Cell><Data ss:Type="String">BARCELONA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">120964</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008181</Data></Cell>
+			<Cell><Data ss:Type="String">BARCELONA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">104891</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008181</Data></Cell>
+			<Cell><Data ss:Type="String">BARCELONA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">17259</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008202</Data></Cell>
+			<Cell><Data ss:Type="String">SALAMANCA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">58396</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008202</Data></Cell>
+			<Cell><Data ss:Type="String">SALAMANCA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">81086</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008202</Data></Cell>
+			<Cell><Data ss:Type="String">SALAMANCA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">73735</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008202</Data></Cell>
+			<Cell><Data ss:Type="String">SALAMANCA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">70292</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008202</Data></Cell>
+			<Cell><Data ss:Type="String">SALAMANCA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">12309</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008215</Data></Cell>
+			<Cell><Data ss:Type="String">NAVACERRADA</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">170458</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008215</Data></Cell>
+			<Cell><Data ss:Type="String">NAVACERRADA</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">307484</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008215</Data></Cell>
+			<Cell><Data ss:Type="String">NAVACERRADA</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">238679</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008215</Data></Cell>
+			<Cell><Data ss:Type="String">NAVACERRADA</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">261772</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008215</Data></Cell>
+			<Cell><Data ss:Type="String">NAVACERRADA</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">44069</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008280</Data></Cell>
+			<Cell><Data ss:Type="String">ALBACETE LOS LLANOS</Data></Cell>
+			<Cell><Data ss:Type="String">1900s</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008280</Data></Cell>
+			<Cell><Data ss:Type="String">ALBACETE LOS LLANOS</Data></Cell>
+			<Cell><Data ss:Type="String">1920s</Data></Cell>
+			<Cell><Data ss:Type="Number">229</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008280</Data></Cell>
+			<Cell><Data ss:Type="String">ALBACETE LOS LLANOS</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">70560</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008280</Data></Cell>
+			<Cell><Data ss:Type="String">ALBACETE LOS LLANOS</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">75696</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008280</Data></Cell>
+			<Cell><Data ss:Type="String">ALBACETE LOS LLANOS</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">71350</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008280</Data></Cell>
+			<Cell><Data ss:Type="String">ALBACETE LOS LLANOS</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">69467</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008280</Data></Cell>
+			<Cell><Data ss:Type="String">ALBACETE LOS LLANOS</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">12150</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008410</Data></Cell>
+			<Cell><Data ss:Type="String">CORDOBA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">4982</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008410</Data></Cell>
+			<Cell><Data ss:Type="String">CORDOBA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">133859</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008410</Data></Cell>
+			<Cell><Data ss:Type="String">CORDOBA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">109001</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008410</Data></Cell>
+			<Cell><Data ss:Type="String">CORDOBA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">113223</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008410</Data></Cell>
+			<Cell><Data ss:Type="String">CORDOBA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">14136</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008416</Data></Cell>
+			<Cell><Data ss:Type="String">VALENCIA</Data></Cell>
+			<Cell><Data ss:Type="String">1920s</Data></Cell>
+			<Cell><Data ss:Type="Number">7376</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008416</Data></Cell>
+			<Cell><Data ss:Type="String">VALENCIA</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">86114</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008416</Data></Cell>
+			<Cell><Data ss:Type="String">VALENCIA</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">90744</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008416</Data></Cell>
+			<Cell><Data ss:Type="String">VALENCIA</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">88623</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008416</Data></Cell>
+			<Cell><Data ss:Type="String">VALENCIA</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">96162</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008416</Data></Cell>
+			<Cell><Data ss:Type="String">VALENCIA</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">17657</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009434</Data></Cell>
+			<Cell><Data ss:Type="String">ZARAGOZA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">65547</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009434</Data></Cell>
+			<Cell><Data ss:Type="String">ZARAGOZA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">62752</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009434</Data></Cell>
+			<Cell><Data ss:Type="String">ZARAGOZA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">61851</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009434</Data></Cell>
+			<Cell><Data ss:Type="String">ZARAGOZA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">68072</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009434</Data></Cell>
+			<Cell><Data ss:Type="String">ZARAGOZA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">9692</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009981</Data></Cell>
+			<Cell><Data ss:Type="String">TORTOSA - OBSERVATORIO DEL EBR</Data></Cell>
+			<Cell><Data ss:Type="String">1900s</Data></Cell>
+			<Cell><Data ss:Type="Number">75097</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009981</Data></Cell>
+			<Cell><Data ss:Type="String">TORTOSA - OBSERVATORIO DEL EBR</Data></Cell>
+			<Cell><Data ss:Type="String">1920s</Data></Cell>
+			<Cell><Data ss:Type="Number">100465</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009981</Data></Cell>
+			<Cell><Data ss:Type="String">TORTOSA - OBSERVATORIO DEL EBR</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">112285</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009981</Data></Cell>
+			<Cell><Data ss:Type="String">TORTOSA - OBSERVATORIO DEL EBR</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">120591</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009981</Data></Cell>
+			<Cell><Data ss:Type="String">TORTOSA - OBSERVATORIO DEL EBR</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">98387</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009981</Data></Cell>
+			<Cell><Data ss:Type="String">TORTOSA - OBSERVATORIO DEL EBR</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">101645</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009981</Data></Cell>
+			<Cell><Data ss:Type="String">TORTOSA - OBSERVATORIO DEL EBR</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">19562</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060010</Data></Cell>
+			<Cell><Data ss:Type="String">IZANA</Data></Cell>
+			<Cell><Data ss:Type="String">1900s</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060010</Data></Cell>
+			<Cell><Data ss:Type="String">IZANA</Data></Cell>
+			<Cell><Data ss:Type="String">1920s</Data></Cell>
+			<Cell><Data ss:Type="Number">88443</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060010</Data></Cell>
+			<Cell><Data ss:Type="String">IZANA</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">105614</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060010</Data></Cell>
+			<Cell><Data ss:Type="String">IZANA</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">101440</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060010</Data></Cell>
+			<Cell><Data ss:Type="String">IZANA</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">78694</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060010</Data></Cell>
+			<Cell><Data ss:Type="String">IZANA</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">69194</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060010</Data></Cell>
+			<Cell><Data ss:Type="String">IZANA</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">8540</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060040</Data></Cell>
+			<Cell><Data ss:Type="String">LANZAROTE/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">0</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060040</Data></Cell>
+			<Cell><Data ss:Type="String">LANZAROTE/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">6434</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060040</Data></Cell>
+			<Cell><Data ss:Type="String">LANZAROTE/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">23975</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060040</Data></Cell>
+			<Cell><Data ss:Type="String">LANZAROTE/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">19835</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060040</Data></Cell>
+			<Cell><Data ss:Type="String">LANZAROTE/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">2853</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060338</Data></Cell>
+			<Cell><Data ss:Type="String">MELILLA</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">67725</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060338</Data></Cell>
+			<Cell><Data ss:Type="String">MELILLA</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">70935</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060338</Data></Cell>
+			<Cell><Data ss:Type="String">MELILLA</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">76438</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060338</Data></Cell>
+			<Cell><Data ss:Type="String">MELILLA</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">8130</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101035</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE EL ALTET</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">38191</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101035</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE EL ALTET</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">55331</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101035</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE EL ALTET</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">55983</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101035</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE EL ALTET</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">13227</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101043</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE</Data></Cell>
+			<Cell><Data ss:Type="String">1920s</Data></Cell>
+			<Cell><Data ss:Type="Number">2953</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101043</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">69600</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101043</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">69671</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101043</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">64579</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101043</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">59514</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101043</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE</Data></Cell>
+			<Cell><Data ss:Type="String">2020s</Data></Cell>
+			<Cell><Data ss:Type="Number">8848</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119711</Data></Cell>
+			<Cell><Data ss:Type="String">A CORUNA</Data></Cell>
+			<Cell><Data ss:Type="String">1920s</Data></Cell>
+			<Cell><Data ss:Type="Number">84218</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119711</Data></Cell>
+			<Cell><Data ss:Type="String">A CORUNA</Data></Cell>
+			<Cell><Data ss:Type="String">1940s</Data></Cell>
+			<Cell><Data ss:Type="Number">195453</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119711</Data></Cell>
+			<Cell><Data ss:Type="String">A CORUNA</Data></Cell>
+			<Cell><Data ss:Type="String">1960s</Data></Cell>
+			<Cell><Data ss:Type="Number">206010</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119711</Data></Cell>
+			<Cell><Data ss:Type="String">A CORUNA</Data></Cell>
+			<Cell><Data ss:Type="String">1980s</Data></Cell>
+			<Cell><Data ss:Type="Number">198055</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119711</Data></Cell>
+			<Cell><Data ss:Type="String">A CORUNA</Data></Cell>
+			<Cell><Data ss:Type="String">2000s</Data></Cell>
+			<Cell><Data ss:Type="Number">205274</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>

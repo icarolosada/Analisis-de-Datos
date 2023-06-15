@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">Id_estacion</Data></Cell>
+			<Cell><Data ss:Type="String">NOMBRE_ESTACION</Data></Cell>
+			<Cell><Data ss:Type="String">LATITUD</Data></Cell>
+			<Cell><Data ss:Type="String">LONGITUD</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">SP000004452</Data></Cell>
+			<Cell><Data ss:Type="String">BADAJOZ/TALAVERA LA REAL</Data></Cell>
+			<Cell><Data ss:Type="Number">388.831000</Data></Cell>
+			<Cell><Data ss:Type="Number">-68.292000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000006155</Data></Cell>
+			<Cell><Data ss:Type="String">MALAGA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">366.667000</Data></Cell>
+			<Cell><Data ss:Type="Number">-44.881000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000007038</Data></Cell>
+			<Cell><Data ss:Type="String">TORREVIEJA</Data></Cell>
+			<Cell><Data ss:Type="Number">379.769000</Data></Cell>
+			<Cell><Data ss:Type="Number">7.106000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008027</Data></Cell>
+			<Cell><Data ss:Type="String">SAN SEBASTIAN - IGUELDO</Data></Cell>
+			<Cell><Data ss:Type="Number">433.075000</Data></Cell>
+			<Cell><Data ss:Type="Number">-20.392000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008181</Data></Cell>
+			<Cell><Data ss:Type="String">BARCELONA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">412.928000</Data></Cell>
+			<Cell><Data ss:Type="Number">20.697000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008202</Data></Cell>
+			<Cell><Data ss:Type="String">SALAMANCA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">409.592000</Data></Cell>
+			<Cell><Data ss:Type="Number">-54.981000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008215</Data></Cell>
+			<Cell><Data ss:Type="String">NAVACERRADA</Data></Cell>
+			<Cell><Data ss:Type="Number">407.806000</Data></Cell>
+			<Cell><Data ss:Type="Number">-40.103000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008280</Data></Cell>
+			<Cell><Data ss:Type="String">ALBACETE LOS LLANOS</Data></Cell>
+			<Cell><Data ss:Type="Number">389.519000</Data></Cell>
+			<Cell><Data ss:Type="Number">-18.631000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008410</Data></Cell>
+			<Cell><Data ss:Type="String">CORDOBA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">378.442000</Data></Cell>
+			<Cell><Data ss:Type="Number">-48.458000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000008416</Data></Cell>
+			<Cell><Data ss:Type="String">VALENCIA</Data></Cell>
+			<Cell><Data ss:Type="Number">394.806000</Data></Cell>
+			<Cell><Data ss:Type="Number">3.664000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009434</Data></Cell>
+			<Cell><Data ss:Type="String">ZARAGOZA AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">416.617000</Data></Cell>
+			<Cell><Data ss:Type="Number">-10.081000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000009981</Data></Cell>
+			<Cell><Data ss:Type="String">TORTOSA - OBSERVATORIO DEL EBR</Data></Cell>
+			<Cell><Data ss:Type="Number">408.206000</Data></Cell>
+			<Cell><Data ss:Type="Number">4.914000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060010</Data></Cell>
+			<Cell><Data ss:Type="String">IZANA</Data></Cell>
+			<Cell><Data ss:Type="Number">283.089000</Data></Cell>
+			<Cell><Data ss:Type="Number">-164.992000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060040</Data></Cell>
+			<Cell><Data ss:Type="String">LANZAROTE/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">289.517000</Data></Cell>
+			<Cell><Data ss:Type="Number">-136.003000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SP000060338</Data></Cell>
+			<Cell><Data ss:Type="String">MELILLA</Data></Cell>
+			<Cell><Data ss:Type="Number">352.778000</Data></Cell>
+			<Cell><Data ss:Type="Number">-29.553000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101035</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE EL ALTET</Data></Cell>
+			<Cell><Data ss:Type="Number">382.828000</Data></Cell>
+			<Cell><Data ss:Type="Number">5.706000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00101043</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE</Data></Cell>
+			<Cell><Data ss:Type="Number">383.725000</Data></Cell>
+			<Cell><Data ss:Type="Number">4.942000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119711</Data></Cell>
+			<Cell><Data ss:Type="String">A CORUNA</Data></Cell>
+			<Cell><Data ss:Type="Number">433.669000</Data></Cell>
+			<Cell><Data ss:Type="Number">-84.192000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119720</Data></Cell>
+			<Cell><Data ss:Type="String">A CORUNA/ALVEDRO</Data></Cell>
+			<Cell><Data ss:Type="Number">433.067000</Data></Cell>
+			<Cell><Data ss:Type="Number">-83.719000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119729</Data></Cell>
+			<Cell><Data ss:Type="String">SANTIAGO DE COMPOSTELA/LABACOL</Data></Cell>
+			<Cell><Data ss:Type="Number">428.878000</Data></Cell>
+			<Cell><Data ss:Type="Number">-84.106000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119738</Data></Cell>
+			<Cell><Data ss:Type="String">VITORIA AERODROMO</Data></Cell>
+			<Cell><Data ss:Type="Number">428.506000</Data></Cell>
+			<Cell><Data ss:Type="Number">-26.544000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119747</Data></Cell>
+			<Cell><Data ss:Type="String">VITORIA/FORONDA</Data></Cell>
+			<Cell><Data ss:Type="Number">428.717000</Data></Cell>
+			<Cell><Data ss:Type="Number">-27.331000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119756</Data></Cell>
+			<Cell><Data ss:Type="String">ALBACETE OBS.</Data></Cell>
+			<Cell><Data ss:Type="Number">390.067000</Data></Cell>
+			<Cell><Data ss:Type="Number">-18.606000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119774</Data></Cell>
+			<Cell><Data ss:Type="String">ALMERIA</Data></Cell>
+			<Cell><Data ss:Type="Number">368.331000</Data></Cell>
+			<Cell><Data ss:Type="Number">-24.544000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119783</Data></Cell>
+			<Cell><Data ss:Type="String">ALMERIA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">368.464000</Data></Cell>
+			<Cell><Data ss:Type="Number">-23.567000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119792</Data></Cell>
+			<Cell><Data ss:Type="String">ASTURIAS/AVILES</Data></Cell>
+			<Cell><Data ss:Type="Number">435.667000</Data></Cell>
+			<Cell><Data ss:Type="Number">-60.442000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119801</Data></Cell>
+			<Cell><Data ss:Type="String">GIJON LA MERCED</Data></Cell>
+			<Cell><Data ss:Type="Number">435.381000</Data></Cell>
+			<Cell><Data ss:Type="Number">-56.417000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119819</Data></Cell>
+			<Cell><Data ss:Type="String">GIJON MUSEL</Data></Cell>
+			<Cell><Data ss:Type="Number">435.606000</Data></Cell>
+			<Cell><Data ss:Type="Number">-56.983000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119828</Data></Cell>
+			<Cell><Data ss:Type="String">OVIEDO</Data></Cell>
+			<Cell><Data ss:Type="Number">433.542000</Data></Cell>
+			<Cell><Data ss:Type="Number">-58.728000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119837</Data></Cell>
+			<Cell><Data ss:Type="String">AVILA</Data></Cell>
+			<Cell><Data ss:Type="Number">406.592000</Data></Cell>
+			<Cell><Data ss:Type="Number">-46.800000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119846</Data></Cell>
+			<Cell><Data ss:Type="String">AVILA-AYUNTAMIENTO</Data></Cell>
+			<Cell><Data ss:Type="Number">406.556000</Data></Cell>
+			<Cell><Data ss:Type="Number">-46.992000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119855</Data></Cell>
+			<Cell><Data ss:Type="String">IBIZA/ESCODOLA</Data></Cell>
+			<Cell><Data ss:Type="Number">388.764000</Data></Cell>
+			<Cell><Data ss:Type="Number">13.842000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119864</Data></Cell>
+			<Cell><Data ss:Type="String">MENORCA/MAO</Data></Cell>
+			<Cell><Data ss:Type="Number">398.544000</Data></Cell>
+			<Cell><Data ss:Type="Number">42.156000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119882</Data></Cell>
+			<Cell><Data ss:Type="String">PALMA DE MALLORCA CMT</Data></Cell>
+			<Cell><Data ss:Type="Number">395.556000</Data></Cell>
+			<Cell><Data ss:Type="Number">26.264000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119909</Data></Cell>
+			<Cell><Data ss:Type="String">BURGOS-VILLAFRIA</Data></Cell>
+			<Cell><Data ss:Type="Number">423.558000</Data></Cell>
+			<Cell><Data ss:Type="Number">-36.325000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119918</Data></Cell>
+			<Cell><Data ss:Type="String">CACERES</Data></Cell>
+			<Cell><Data ss:Type="Number">394.719000</Data></Cell>
+			<Cell><Data ss:Type="Number">-63.392000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119936</Data></Cell>
+			<Cell><Data ss:Type="String">CADIZ</Data></Cell>
+			<Cell><Data ss:Type="Number">365.008000</Data></Cell>
+			<Cell><Data ss:Type="Number">-62.567000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119945</Data></Cell>
+			<Cell><Data ss:Type="String">JEREZ DE LA FRONTERA</Data></Cell>
+			<Cell><Data ss:Type="Number">367.506000</Data></Cell>
+			<Cell><Data ss:Type="Number">-60.556000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119954</Data></Cell>
+			<Cell><Data ss:Type="String">ROTA</Data></Cell>
+			<Cell><Data ss:Type="Number">366.389000</Data></Cell>
+			<Cell><Data ss:Type="Number">-63.317000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119963</Data></Cell>
+			<Cell><Data ss:Type="String">TARIFA</Data></Cell>
+			<Cell><Data ss:Type="Number">360.153000</Data></Cell>
+			<Cell><Data ss:Type="Number">-55.975000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119972</Data></Cell>
+			<Cell><Data ss:Type="String">SANTANDER CENTRO</Data></Cell>
+			<Cell><Data ss:Type="Number">434.644000</Data></Cell>
+			<Cell><Data ss:Type="Number">-38.189000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119981</Data></Cell>
+			<Cell><Data ss:Type="String">SANTANDER CMT</Data></Cell>
+			<Cell><Data ss:Type="Number">434.917000</Data></Cell>
+			<Cell><Data ss:Type="Number">-37.994000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119990</Data></Cell>
+			<Cell><Data ss:Type="String">SANTANDER/PARAYAS</Data></Cell>
+			<Cell><Data ss:Type="Number">434.292000</Data></Cell>
+			<Cell><Data ss:Type="Number">-38.314000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00119999</Data></Cell>
+			<Cell><Data ss:Type="String">CASTELLON</Data></Cell>
+			<Cell><Data ss:Type="Number">399.500000</Data></Cell>
+			<Cell><Data ss:Type="Number">714.000000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120008</Data></Cell>
+			<Cell><Data ss:Type="String">CASTELLON DE LA PLANA</Data></Cell>
+			<Cell><Data ss:Type="Number">399.892000</Data></Cell>
+			<Cell><Data ss:Type="Number">406.000000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120017</Data></Cell>
+			<Cell><Data ss:Type="String">CEUTA</Data></Cell>
+			<Cell><Data ss:Type="Number">358.900000</Data></Cell>
+			<Cell><Data ss:Type="Number">-53.456000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120026</Data></Cell>
+			<Cell><Data ss:Type="String">CEUTA (MONTE HACHO)</Data></Cell>
+			<Cell><Data ss:Type="Number">358.919000</Data></Cell>
+			<Cell><Data ss:Type="Number">-52.892000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120035</Data></Cell>
+			<Cell><Data ss:Type="String">CIUDAD REAL</Data></Cell>
+			<Cell><Data ss:Type="Number">389.892000</Data></Cell>
+			<Cell><Data ss:Type="Number">-39.194000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120044</Data></Cell>
+			<Cell><Data ss:Type="String">CIUDAD REAL (INSTITUTO)</Data></Cell>
+			<Cell><Data ss:Type="Number">389.892000</Data></Cell>
+			<Cell><Data ss:Type="Number">-39.283000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120062</Data></Cell>
+			<Cell><Data ss:Type="String">CUENCA</Data></Cell>
+			<Cell><Data ss:Type="Number">400.667000</Data></Cell>
+			<Cell><Data ss:Type="Number">-21.381000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120080</Data></Cell>
+			<Cell><Data ss:Type="String">GIRONA/COSTA BRAVA</Data></Cell>
+			<Cell><Data ss:Type="Number">419.117000</Data></Cell>
+			<Cell><Data ss:Type="Number">27.631000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120089</Data></Cell>
+			<Cell><Data ss:Type="String">GRANADA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">371.894000</Data></Cell>
+			<Cell><Data ss:Type="Number">-37.892000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120107</Data></Cell>
+			<Cell><Data ss:Type="String">GUADALAJARA</Data></Cell>
+			<Cell><Data ss:Type="Number">406.608000</Data></Cell>
+			<Cell><Data ss:Type="Number">-31.742000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120116</Data></Cell>
+			<Cell><Data ss:Type="String">GUADALAJARA (INSTITUTO)</Data></Cell>
+			<Cell><Data ss:Type="Number">406.344000</Data></Cell>
+			<Cell><Data ss:Type="Number">-31.642000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120125</Data></Cell>
+			<Cell><Data ss:Type="String">MOLINA DE ARAGON</Data></Cell>
+			<Cell><Data ss:Type="Number">408.442000</Data></Cell>
+			<Cell><Data ss:Type="Number">-18.853000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120134</Data></Cell>
+			<Cell><Data ss:Type="String">SAN SEBASTIAN/FUENTERRABIA</Data></Cell>
+			<Cell><Data ss:Type="Number">433.606000</Data></Cell>
+			<Cell><Data ss:Type="Number">-17.869000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120143</Data></Cell>
+			<Cell><Data ss:Type="String">HUELVA (RONDA DEL ESTE)</Data></Cell>
+			<Cell><Data ss:Type="Number">372.800000</Data></Cell>
+			<Cell><Data ss:Type="Number">-69.094000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120152</Data></Cell>
+			<Cell><Data ss:Type="String">HUELVA</Data></Cell>
+			<Cell><Data ss:Type="Number">372.594000</Data></Cell>
+			<Cell><Data ss:Type="Number">-69.492000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120161</Data></Cell>
+			<Cell><Data ss:Type="String">HUESCA</Data></Cell>
+			<Cell><Data ss:Type="Number">420.831000</Data></Cell>
+			<Cell><Data ss:Type="Number">3.264000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120170</Data></Cell>
+			<Cell><Data ss:Type="String">JAEN</Data></Cell>
+			<Cell><Data ss:Type="Number">377.778000</Data></Cell>
+			<Cell><Data ss:Type="Number">-38.075000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120179</Data></Cell>
+			<Cell><Data ss:Type="String">JAEN (INSTITUTO)</Data></Cell>
+			<Cell><Data ss:Type="Number">377.778000</Data></Cell>
+			<Cell><Data ss:Type="Number">-37.881000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120188</Data></Cell>
+			<Cell><Data ss:Type="String">LOGRONO-AGONCILLO</Data></Cell>
+			<Cell><Data ss:Type="Number">424.519000</Data></Cell>
+			<Cell><Data ss:Type="Number">-23.308000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120197</Data></Cell>
+			<Cell><Data ss:Type="String">FUERTEVENTURA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">284.444000</Data></Cell>
+			<Cell><Data ss:Type="Number">-138.631000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120215</Data></Cell>
+			<Cell><Data ss:Type="String">LAS PALMAS DE GRAN CANARIA/GAN</Data></Cell>
+			<Cell><Data ss:Type="Number">279.225000</Data></Cell>
+			<Cell><Data ss:Type="Number">-153.892000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120224</Data></Cell>
+			<Cell><Data ss:Type="String">LEON VIRGEN DEL CAMINO</Data></Cell>
+			<Cell><Data ss:Type="Number">425.889000</Data></Cell>
+			<Cell><Data ss:Type="Number">-56.492000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120233</Data></Cell>
+			<Cell><Data ss:Type="String">PONFERRADA</Data></Cell>
+			<Cell><Data ss:Type="Number">425.639000</Data></Cell>
+			<Cell><Data ss:Type="Number">-66.000000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120242</Data></Cell>
+			<Cell><Data ss:Type="String">LLEIDA</Data></Cell>
+			<Cell><Data ss:Type="Number">416.256000</Data></Cell>
+			<Cell><Data ss:Type="Number">5.950000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120251</Data></Cell>
+			<Cell><Data ss:Type="String">LLEIDA (OBSERVATORIO)</Data></Cell>
+			<Cell><Data ss:Type="Number">416.183000</Data></Cell>
+			<Cell><Data ss:Type="Number">6.217000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120260</Data></Cell>
+			<Cell><Data ss:Type="String">LUGO/ROZAS</Data></Cell>
+			<Cell><Data ss:Type="Number">431.153000</Data></Cell>
+			<Cell><Data ss:Type="Number">-74.558000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120269</Data></Cell>
+			<Cell><Data ss:Type="String">COLMENAR VIEJO/FAMET</Data></Cell>
+			<Cell><Data ss:Type="Number">406.983000</Data></Cell>
+			<Cell><Data ss:Type="Number">-37.642000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120278</Data></Cell>
+			<Cell><Data ss:Type="String">MADRID/BARAJAS</Data></Cell>
+			<Cell><Data ss:Type="Number">404.667000</Data></Cell>
+			<Cell><Data ss:Type="Number">-35.556000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120287</Data></Cell>
+			<Cell><Data ss:Type="String">MADRID/CUATROVIENTOS</Data></Cell>
+			<Cell><Data ss:Type="Number">403.778000</Data></Cell>
+			<Cell><Data ss:Type="Number">-37.892000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120296</Data></Cell>
+			<Cell><Data ss:Type="String">MADRID/GETAFE</Data></Cell>
+			<Cell><Data ss:Type="Number">403.000000</Data></Cell>
+			<Cell><Data ss:Type="Number">-37.225000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120305</Data></Cell>
+			<Cell><Data ss:Type="String">MADRID/TORREJON</Data></Cell>
+			<Cell><Data ss:Type="Number">404.831000</Data></Cell>
+			<Cell><Data ss:Type="Number">-34.503000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120323</Data></Cell>
+			<Cell><Data ss:Type="String">MURCIA</Data></Cell>
+			<Cell><Data ss:Type="Number">380.028000</Data></Cell>
+			<Cell><Data ss:Type="Number">-11.692000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120332</Data></Cell>
+			<Cell><Data ss:Type="String">MURCIA/ALCANTARILLA</Data></Cell>
+			<Cell><Data ss:Type="Number">379.578000</Data></Cell>
+			<Cell><Data ss:Type="Number">-12.294000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120341</Data></Cell>
+			<Cell><Data ss:Type="String">MURCIA/SAN JAVIER</Data></Cell>
+			<Cell><Data ss:Type="Number">377.889000</Data></Cell>
+			<Cell><Data ss:Type="Number">8.031000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120350</Data></Cell>
+			<Cell><Data ss:Type="String">PAMPLONA (OBSERVATORIO)</Data></Cell>
+			<Cell><Data ss:Type="Number">428.175000</Data></Cell>
+			<Cell><Data ss:Type="Number">-16.364000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120359</Data></Cell>
+			<Cell><Data ss:Type="String">PAMPLONA</Data></Cell>
+			<Cell><Data ss:Type="Number">427.767000</Data></Cell>
+			<Cell><Data ss:Type="Number">-16.500000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120368</Data></Cell>
+			<Cell><Data ss:Type="String">OURENSE</Data></Cell>
+			<Cell><Data ss:Type="Number">423.278000</Data></Cell>
+			<Cell><Data ss:Type="Number">-78.603000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120377</Data></Cell>
+			<Cell><Data ss:Type="String">OURENSE (INSTITUTO)</Data></Cell>
+			<Cell><Data ss:Type="Number">423.331000</Data></Cell>
+			<Cell><Data ss:Type="Number">-78.631000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120386</Data></Cell>
+			<Cell><Data ss:Type="String">PALENCIA (OBSERVATORIO)</Data></Cell>
+			<Cell><Data ss:Type="Number">420.081000</Data></Cell>
+			<Cell><Data ss:Type="Number">-45.353000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120395</Data></Cell>
+			<Cell><Data ss:Type="String">PONTEVEDRA</Data></Cell>
+			<Cell><Data ss:Type="Number">424.400000</Data></Cell>
+			<Cell><Data ss:Type="Number">-86.164000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120404</Data></Cell>
+			<Cell><Data ss:Type="String">PONTEVEDRA (INSTITUTO)</Data></Cell>
+			<Cell><Data ss:Type="Number">424.306000</Data></Cell>
+			<Cell><Data ss:Type="Number">-86.494000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120413</Data></Cell>
+			<Cell><Data ss:Type="String">VIGO PEINADOR</Data></Cell>
+			<Cell><Data ss:Type="Number">422.392000</Data></Cell>
+			<Cell><Data ss:Type="Number">-86.239000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120422</Data></Cell>
+			<Cell><Data ss:Type="String">SALAMANCA OBS.</Data></Cell>
+			<Cell><Data ss:Type="Number">409.564000</Data></Cell>
+			<Cell><Data ss:Type="Number">-56.614000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120431</Data></Cell>
+			<Cell><Data ss:Type="String">HIERRO/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">278.189000</Data></Cell>
+			<Cell><Data ss:Type="Number">-178.889000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120449</Data></Cell>
+			<Cell><Data ss:Type="String">LA PALMA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">286.331000</Data></Cell>
+			<Cell><Data ss:Type="Number">-177.550000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120458</Data></Cell>
+			<Cell><Data ss:Type="String">STA. CRUZ DE TENERIFE</Data></Cell>
+			<Cell><Data ss:Type="Number">284.631000</Data></Cell>
+			<Cell><Data ss:Type="Number">-162.553000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120467</Data></Cell>
+			<Cell><Data ss:Type="String">TENERIFE/LOS RODEOS</Data></Cell>
+			<Cell><Data ss:Type="Number">284.775000</Data></Cell>
+			<Cell><Data ss:Type="Number">-163.292000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120476</Data></Cell>
+			<Cell><Data ss:Type="String">TENERIFE/SUR</Data></Cell>
+			<Cell><Data ss:Type="Number">280.475000</Data></Cell>
+			<Cell><Data ss:Type="Number">-165.606000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120485</Data></Cell>
+			<Cell><Data ss:Type="String">SEGOVIA</Data></Cell>
+			<Cell><Data ss:Type="Number">409.478000</Data></Cell>
+			<Cell><Data ss:Type="Number">-41.269000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120494</Data></Cell>
+			<Cell><Data ss:Type="String">SEGOVIA (MARIANO QUINTANILLA)</Data></Cell>
+			<Cell><Data ss:Type="Number">409.478000</Data></Cell>
+			<Cell><Data ss:Type="Number">-41.153000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120503</Data></Cell>
+			<Cell><Data ss:Type="String">MORON DE LA FRONTERA</Data></Cell>
+			<Cell><Data ss:Type="Number">371.581000</Data></Cell>
+			<Cell><Data ss:Type="Number">-56.156000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120512</Data></Cell>
+			<Cell><Data ss:Type="String">SEVILLA/SAN PABLO</Data></Cell>
+			<Cell><Data ss:Type="Number">374.167000</Data></Cell>
+			<Cell><Data ss:Type="Number">-58.792000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120521</Data></Cell>
+			<Cell><Data ss:Type="String">SORIA</Data></Cell>
+			<Cell><Data ss:Type="Number">417.750000</Data></Cell>
+			<Cell><Data ss:Type="Number">-24.831000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120530</Data></Cell>
+			<Cell><Data ss:Type="String">REUS/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">411.494000</Data></Cell>
+			<Cell><Data ss:Type="Number">11.789000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120539</Data></Cell>
+			<Cell><Data ss:Type="String">CALAMOCHA</Data></Cell>
+			<Cell><Data ss:Type="Number">409.258000</Data></Cell>
+			<Cell><Data ss:Type="Number">-12.931000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120548</Data></Cell>
+			<Cell><Data ss:Type="String">CALAMOCHA-VOR</Data></Cell>
+			<Cell><Data ss:Type="Number">408.653000</Data></Cell>
+			<Cell><Data ss:Type="Number">-13.044000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120557</Data></Cell>
+			<Cell><Data ss:Type="String">TERUEL</Data></Cell>
+			<Cell><Data ss:Type="Number">403.494000</Data></Cell>
+			<Cell><Data ss:Type="Number">-11.167000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120566</Data></Cell>
+			<Cell><Data ss:Type="String">TOLEDO</Data></Cell>
+			<Cell><Data ss:Type="Number">398.844000</Data></Cell>
+			<Cell><Data ss:Type="Number">-40.492000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120575</Data></Cell>
+			<Cell><Data ss:Type="String">TOLEDO LORENZANA</Data></Cell>
+			<Cell><Data ss:Type="Number">398.608000</Data></Cell>
+			<Cell><Data ss:Type="Number">-40.233000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120584</Data></Cell>
+			<Cell><Data ss:Type="String">VALENCIA/AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">394.867000</Data></Cell>
+			<Cell><Data ss:Type="Number">4.731000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120593</Data></Cell>
+			<Cell><Data ss:Type="String">VALLADOLID</Data></Cell>
+			<Cell><Data ss:Type="Number">416.500000</Data></Cell>
+			<Cell><Data ss:Type="Number">-47.667000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120602</Data></Cell>
+			<Cell><Data ss:Type="String">VALLADOLID (VILLANUBLA)</Data></Cell>
+			<Cell><Data ss:Type="Number">417.000000</Data></Cell>
+			<Cell><Data ss:Type="Number">-48.500000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120611</Data></Cell>
+			<Cell><Data ss:Type="String">BILBAO AEROPUERTO</Data></Cell>
+			<Cell><Data ss:Type="Number">432.981000</Data></Cell>
+			<Cell><Data ss:Type="Number">-29.056000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120620</Data></Cell>
+			<Cell><Data ss:Type="String">ZAMORA</Data></Cell>
+			<Cell><Data ss:Type="Number">415.167000</Data></Cell>
+			<Cell><Data ss:Type="Number">-57.333000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00120629</Data></Cell>
+			<Cell><Data ss:Type="String">DAROCA</Data></Cell>
+			<Cell><Data ss:Type="Number">411.144000</Data></Cell>
+			<Cell><Data ss:Type="Number">-14.106000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00155259</Data></Cell>
+			<Cell><Data ss:Type="String">BARCELONA -FABRA OBSERVATORY</Data></Cell>
+			<Cell><Data ss:Type="Number">414.181000</Data></Cell>
+			<Cell><Data ss:Type="Number">21.239000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00155273</Data></Cell>
+			<Cell><Data ss:Type="String">GIRONA-NOU INSTITUT</Data></Cell>
+			<Cell><Data ss:Type="Number">419.789000</Data></Cell>
+			<Cell><Data ss:Type="Number">28.267000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00155301</Data></Cell>
+			<Cell><Data ss:Type="String">LLEIDA-AJUNTAMENT</Data></Cell>
+			<Cell><Data ss:Type="Number">416.164000</Data></Cell>
+			<Cell><Data ss:Type="Number">5.831000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00155315</Data></Cell>
+			<Cell><Data ss:Type="String">LLEIDA-ESCORXADOR</Data></Cell>
+			<Cell><Data ss:Type="Number">416.133000</Data></Cell>
+			<Cell><Data ss:Type="Number">6.181000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00155329</Data></Cell>
+			<Cell><Data ss:Type="String">GIRONA (ANTIC INSTITUT)</Data></Cell>
+			<Cell><Data ss:Type="Number">419.800000</Data></Cell>
+			<Cell><Data ss:Type="Number">28.253000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00155955</Data></Cell>
+			<Cell><Data ss:Type="String">ALGUAIRE</Data></Cell>
+			<Cell><Data ss:Type="Number">417.428000</Data></Cell>
+			<Cell><Data ss:Type="Number">5.356000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00155964</Data></Cell>
+			<Cell><Data ss:Type="String">AMPOSTA</Data></Cell>
+			<Cell><Data ss:Type="Number">407.078000</Data></Cell>
+			<Cell><Data ss:Type="Number">6.319000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00155973</Data></Cell>
+			<Cell><Data ss:Type="String">ANGLES</Data></Cell>
+			<Cell><Data ss:Type="Number">419.606000</Data></Cell>
+			<Cell><Data ss:Type="Number">26.308000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00155982</Data></Cell>
+			<Cell><Data ss:Type="String">BANYOLES</Data></Cell>
+			<Cell><Data ss:Type="Number">421.164000</Data></Cell>
+			<Cell><Data ss:Type="Number">27.894000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00155991</Data></Cell>
+			<Cell><Data ss:Type="String">BARCELONA-EL RAVAL</Data></Cell>
+			<Cell><Data ss:Type="Number">413.839000</Data></Cell>
+			<Cell><Data ss:Type="Number">21.675000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156000</Data></Cell>
+			<Cell><Data ss:Type="String">BARCELONA-ZONA UNIVERSITARIA</Data></Cell>
+			<Cell><Data ss:Type="Number">413.792000</Data></Cell>
+			<Cell><Data ss:Type="Number">21.053000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156009</Data></Cell>
+			<Cell><Data ss:Type="String">BENISSANET</Data></Cell>
+			<Cell><Data ss:Type="Number">410.628000</Data></Cell>
+			<Cell><Data ss:Type="Number">6.350000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156018</Data></Cell>
+			<Cell><Data ss:Type="String">BOI</Data></Cell>
+			<Cell><Data ss:Type="Number">424.658000</Data></Cell>
+			<Cell><Data ss:Type="Number">8.842000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156027</Data></Cell>
+			<Cell><Data ss:Type="String">BONAIGUA</Data></Cell>
+			<Cell><Data ss:Type="Number">426.467000</Data></Cell>
+			<Cell><Data ss:Type="Number">9.844000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156036</Data></Cell>
+			<Cell><Data ss:Type="String">CABRILS</Data></Cell>
+			<Cell><Data ss:Type="Number">415.178000</Data></Cell>
+			<Cell><Data ss:Type="Number">23.767000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156045</Data></Cell>
+			<Cell><Data ss:Type="String">CADI NORD-PRAT DAGUILO</Data></Cell>
+			<Cell><Data ss:Type="Number">422.925000</Data></Cell>
+			<Cell><Data ss:Type="Number">17.150000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156054</Data></Cell>
+			<Cell><Data ss:Type="String">CALDES DE MONTBUI</Data></Cell>
+			<Cell><Data ss:Type="Number">416.128000</Data></Cell>
+			<Cell><Data ss:Type="Number">21.681000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156063</Data></Cell>
+			<Cell><Data ss:Type="String">CASTELLBISBAL</Data></Cell>
+			<Cell><Data ss:Type="Number">414.789000</Data></Cell>
+			<Cell><Data ss:Type="Number">19.756000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156072</Data></Cell>
+			<Cell><Data ss:Type="String">CASTELL DARO</Data></Cell>
+			<Cell><Data ss:Type="Number">418.083000</Data></Cell>
+			<Cell><Data ss:Type="Number">30.325000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156081</Data></Cell>
+			<Cell><Data ss:Type="String">CASTELLNOU DE BAGES</Data></Cell>
+			<Cell><Data ss:Type="Number">418.306000</Data></Cell>
+			<Cell><Data ss:Type="Number">18.467000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156090</Data></Cell>
+			<Cell><Data ss:Type="String">CASTELLNOU DE SEANA</Data></Cell>
+			<Cell><Data ss:Type="Number">416.567000</Data></Cell>
+			<Cell><Data ss:Type="Number">9.517000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156099</Data></Cell>
+			<Cell><Data ss:Type="String">CERTASCAN</Data></Cell>
+			<Cell><Data ss:Type="Number">426.833000</Data></Cell>
+			<Cell><Data ss:Type="Number">12.717000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156108</Data></Cell>
+			<Cell><Data ss:Type="String">CERVERA</Data></Cell>
+			<Cell><Data ss:Type="Number">416.756000</Data></Cell>
+			<Cell><Data ss:Type="Number">12.958000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156117</Data></Cell>
+			<Cell><Data ss:Type="String">CONSTANTI</Data></Cell>
+			<Cell><Data ss:Type="Number">411.714000</Data></Cell>
+			<Cell><Data ss:Type="Number">11.678000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156126</Data></Cell>
+			<Cell><Data ss:Type="String">CUNIT</Data></Cell>
+			<Cell><Data ss:Type="Number">412.017000</Data></Cell>
+			<Cell><Data ss:Type="Number">16.331000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156135</Data></Cell>
+			<Cell><Data ss:Type="String">DAS-AERODROM</Data></Cell>
+			<Cell><Data ss:Type="Number">423.858000</Data></Cell>
+			<Cell><Data ss:Type="Number">18.664000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156144</Data></Cell>
+			<Cell><Data ss:Type="String">EL PERELLO</Data></Cell>
+			<Cell><Data ss:Type="Number">408.728000</Data></Cell>
+			<Cell><Data ss:Type="Number">7.156000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156153</Data></Cell>
+			<Cell><Data ss:Type="String">EL PONT DE SUERT</Data></Cell>
+			<Cell><Data ss:Type="Number">423.981000</Data></Cell>
+			<Cell><Data ss:Type="Number">7.433000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156162</Data></Cell>
+			<Cell><Data ss:Type="String">EL PORT DEL COMTE</Data></Cell>
+			<Cell><Data ss:Type="Number">421.825000</Data></Cell>
+			<Cell><Data ss:Type="Number">15.242000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156171</Data></Cell>
+			<Cell><Data ss:Type="String">EL PRAT DE LLOBREGAT</Data></Cell>
+			<Cell><Data ss:Type="Number">413.403000</Data></Cell>
+			<Cell><Data ss:Type="Number">20.803000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156180</Data></Cell>
+			<Cell><Data ss:Type="String">ELS HOSTALETS DE PIEROLA</Data></Cell>
+			<Cell><Data ss:Type="Number">415.308000</Data></Cell>
+			<Cell><Data ss:Type="Number">18.081000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156189</Data></Cell>
+			<Cell><Data ss:Type="String">EL VENDRELL</Data></Cell>
+			<Cell><Data ss:Type="Number">412.156000</Data></Cell>
+			<Cell><Data ss:Type="Number">15.208000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156198</Data></Cell>
+			<Cell><Data ss:Type="String">ESPOT</Data></Cell>
+			<Cell><Data ss:Type="Number">425.342000</Data></Cell>
+			<Cell><Data ss:Type="Number">10.544000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156207</Data></Cell>
+			<Cell><Data ss:Type="String">FALSET</Data></Cell>
+			<Cell><Data ss:Type="Number">411.533000</Data></Cell>
+			<Cell><Data ss:Type="Number">8.192000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156216</Data></Cell>
+			<Cell><Data ss:Type="String">FONT-RUBI</Data></Cell>
+			<Cell><Data ss:Type="Number">414.328000</Data></Cell>
+			<Cell><Data ss:Type="Number">16.239000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156225</Data></Cell>
+			<Cell><Data ss:Type="String">GIRONA</Data></Cell>
+			<Cell><Data ss:Type="Number">419.819000</Data></Cell>
+			<Cell><Data ss:Type="Number">28.067000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156234</Data></Cell>
+			<Cell><Data ss:Type="String">GUARDIOLA DE BERGUEDA</Data></Cell>
+			<Cell><Data ss:Type="Number">422.342000</Data></Cell>
+			<Cell><Data ss:Type="Number">18.744000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156243</Data></Cell>
+			<Cell><Data ss:Type="String">HORTA DE SANT JOAN</Data></Cell>
+			<Cell><Data ss:Type="Number">409.514000</Data></Cell>
+			<Cell><Data ss:Type="Number">3.056000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156252</Data></Cell>
+			<Cell><Data ss:Type="String">ILLA DE BUDA</Data></Cell>
+			<Cell><Data ss:Type="Number">407.069000</Data></Cell>
+			<Cell><Data ss:Type="Number">8.342000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156261</Data></Cell>
+			<Cell><Data ss:Type="String">LA BISBAL DEMPORDA</Data></Cell>
+			<Cell><Data ss:Type="Number">419.775000</Data></Cell>
+			<Cell><Data ss:Type="Number">30.353000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156270</Data></Cell>
+			<Cell><Data ss:Type="String">LAC REDON</Data></Cell>
+			<Cell><Data ss:Type="Number">426.381000</Data></Cell>
+			<Cell><Data ss:Type="Number">7.789000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156279</Data></Cell>
+			<Cell><Data ss:Type="String">LA PANADELLA</Data></Cell>
+			<Cell><Data ss:Type="Number">416.025000</Data></Cell>
+			<Cell><Data ss:Type="Number">14.006000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156288</Data></Cell>
+			<Cell><Data ss:Type="String">LA POBLA DE SEGUR - BOMBERS</Data></Cell>
+			<Cell><Data ss:Type="Number">422.392000</Data></Cell>
+			<Cell><Data ss:Type="Number">9.642000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156297</Data></Cell>
+			<Cell><Data ss:Type="String">LA QUAR</Data></Cell>
+			<Cell><Data ss:Type="Number">420.803000</Data></Cell>
+			<Cell><Data ss:Type="Number">19.625000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156306</Data></Cell>
+			<Cell><Data ss:Type="String">LA SEU DURGELL</Data></Cell>
+			<Cell><Data ss:Type="Number">423.706000</Data></Cell>
+			<Cell><Data ss:Type="Number">14.328000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156315</Data></Cell>
+			<Cell><Data ss:Type="String">LESPLUGA DE FRANCOLI</Data></Cell>
+			<Cell><Data ss:Type="Number">413.925000</Data></Cell>
+			<Cell><Data ss:Type="Number">10.989000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156324</Data></Cell>
+			<Cell><Data ss:Type="String">MALGRAT DE MAR</Data></Cell>
+			<Cell><Data ss:Type="Number">416.467000</Data></Cell>
+			<Cell><Data ss:Type="Number">27.567000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156333</Data></Cell>
+			<Cell><Data ss:Type="String">MALNIU</Data></Cell>
+			<Cell><Data ss:Type="Number">424.658000</Data></Cell>
+			<Cell><Data ss:Type="Number">17.781000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156342</Data></Cell>
+			<Cell><Data ss:Type="String">MAS DE BARBERANS-ABOCADOR</Data></Cell>
+			<Cell><Data ss:Type="Number">407.181000</Data></Cell>
+			<Cell><Data ss:Type="Number">3.994000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156351</Data></Cell>
+			<Cell><Data ss:Type="String">MOLLO-FABERT</Data></Cell>
+			<Cell><Data ss:Type="Number">423.769000</Data></Cell>
+			<Cell><Data ss:Type="Number">24.142000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156360</Data></Cell>
+			<Cell><Data ss:Type="String">MONTSEC</Data></Cell>
+			<Cell><Data ss:Type="Number">420.514000</Data></Cell>
+			<Cell><Data ss:Type="Number">7.292000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156369</Data></Cell>
+			<Cell><Data ss:Type="String">MONTSERRAT-SANT DIMES</Data></Cell>
+			<Cell><Data ss:Type="Number">415.953000</Data></Cell>
+			<Cell><Data ss:Type="Number">18.375000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156378</Data></Cell>
+			<Cell><Data ss:Type="String">MUNTANYOLA</Data></Cell>
+			<Cell><Data ss:Type="Number">418.781000</Data></Cell>
+			<Cell><Data ss:Type="Number">21.783000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156387</Data></Cell>
+			<Cell><Data ss:Type="String">NURIA</Data></Cell>
+			<Cell><Data ss:Type="Number">423.817000</Data></Cell>
+			<Cell><Data ss:Type="Number">21.553000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156396</Data></Cell>
+			<Cell><Data ss:Type="String">ODENA</Data></Cell>
+			<Cell><Data ss:Type="Number">415.864000</Data></Cell>
+			<Cell><Data ss:Type="Number">16.531000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156405</Data></Cell>
+			<Cell><Data ss:Type="String">OLOT - PLA DE BAIX</Data></Cell>
+			<Cell><Data ss:Type="Number">421.914000</Data></Cell>
+			<Cell><Data ss:Type="Number">24.825000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156414</Data></Cell>
+			<Cell><Data ss:Type="String">ORGANYA</Data></Cell>
+			<Cell><Data ss:Type="Number">422.158000</Data></Cell>
+			<Cell><Data ss:Type="Number">13.314000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156423</Data></Cell>
+			<Cell><Data ss:Type="String">ORIS</Data></Cell>
+			<Cell><Data ss:Type="Number">420.739000</Data></Cell>
+			<Cell><Data ss:Type="Number">22.083000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156432</Data></Cell>
+			<Cell><Data ss:Type="String">PARETS DEL VALLES</Data></Cell>
+			<Cell><Data ss:Type="Number">415.669000</Data></Cell>
+			<Cell><Data ss:Type="Number">22.258000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156441</Data></Cell>
+			<Cell><Data ss:Type="String">PN DELS PORTS</Data></Cell>
+			<Cell><Data ss:Type="Number">407.967000</Data></Cell>
+			<Cell><Data ss:Type="Number">3.181000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156450</Data></Cell>
+			<Cell><Data ss:Type="String">PORTBOU</Data></Cell>
+			<Cell><Data ss:Type="Number">424.353000</Data></Cell>
+			<Cell><Data ss:Type="Number">31.658000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156459</Data></Cell>
+			<Cell><Data ss:Type="String">PUIG SESOLLES</Data></Cell>
+			<Cell><Data ss:Type="Number">417.733000</Data></Cell>
+			<Cell><Data ss:Type="Number">24.378000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156468</Data></Cell>
+			<Cell><Data ss:Type="String">RAIMAT</Data></Cell>
+			<Cell><Data ss:Type="Number">416.831000</Data></Cell>
+			<Cell><Data ss:Type="Number">4.483000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156477</Data></Cell>
+			<Cell><Data ss:Type="String">ROSES</Data></Cell>
+			<Cell><Data ss:Type="Number">422.706000</Data></Cell>
+			<Cell><Data ss:Type="Number">31.817000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156486</Data></Cell>
+			<Cell><Data ss:Type="String">SABADELL-PARC AGRARI</Data></Cell>
+			<Cell><Data ss:Type="Number">415.656000</Data></Cell>
+			<Cell><Data ss:Type="Number">20.692000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156495</Data></Cell>
+			<Cell><Data ss:Type="String">SALORIA</Data></Cell>
+			<Cell><Data ss:Type="Number">425.192000</Data></Cell>
+			<Cell><Data ss:Type="Number">13.656000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156504</Data></Cell>
+			<Cell><Data ss:Type="String">SANT CUGAT DEL VALLES-CAR</Data></Cell>
+			<Cell><Data ss:Type="Number">414.831000</Data></Cell>
+			<Cell><Data ss:Type="Number">20.792000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156513</Data></Cell>
+			<Cell><Data ss:Type="String">SANT PAU DE SEGURIES</Data></Cell>
+			<Cell><Data ss:Type="Number">422.581000</Data></Cell>
+			<Cell><Data ss:Type="Number">23.642000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156522</Data></Cell>
+			<Cell><Data ss:Type="String">SANT PERE PESCADOR</Data></Cell>
+			<Cell><Data ss:Type="Number">421.769000</Data></Cell>
+			<Cell><Data ss:Type="Number">30.967000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156531</Data></Cell>
+			<Cell><Data ss:Type="String">SANT ROMA DABELLA</Data></Cell>
+			<Cell><Data ss:Type="Number">421.392000</Data></Cell>
+			<Cell><Data ss:Type="Number">10.389000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156540</Data></Cell>
+			<Cell><Data ss:Type="String">SANT SALVADOR DE GUARDIOLA</Data></Cell>
+			<Cell><Data ss:Type="Number">416.739000</Data></Cell>
+			<Cell><Data ss:Type="Number">17.678000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156549</Data></Cell>
+			<Cell><Data ss:Type="String">SANTUARI DE QUERALT</Data></Cell>
+			<Cell><Data ss:Type="Number">421.069000</Data></Cell>
+			<Cell><Data ss:Type="Number">18.267000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156558</Data></Cell>
+			<Cell><Data ss:Type="String">SASSEUVA</Data></Cell>
+			<Cell><Data ss:Type="Number">427.700000</Data></Cell>
+			<Cell><Data ss:Type="Number">7.317000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156567</Data></Cell>
+			<Cell><Data ss:Type="String">SOLSONA</Data></Cell>
+			<Cell><Data ss:Type="Number">419.878000</Data></Cell>
+			<Cell><Data ss:Type="Number">15.117000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156576</Data></Cell>
+			<Cell><Data ss:Type="String">TARRAGONA-COMPLEX EDUCATIU</Data></Cell>
+			<Cell><Data ss:Type="Number">411.039000</Data></Cell>
+			<Cell><Data ss:Type="Number">12.008000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156585</Data></Cell>
+			<Cell><Data ss:Type="String">TARREGA</Data></Cell>
+			<Cell><Data ss:Type="Number">416.667000</Data></Cell>
+			<Cell><Data ss:Type="Number">11.653000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156594</Data></Cell>
+			<Cell><Data ss:Type="String">TORREDEMBARRA</Data></Cell>
+			<Cell><Data ss:Type="Number">411.467000</Data></Cell>
+			<Cell><Data ss:Type="Number">14.181000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156603</Data></Cell>
+			<Cell><Data ss:Type="String">ULLDEMOLINS</Data></Cell>
+			<Cell><Data ss:Type="Number">413.200000</Data></Cell>
+			<Cell><Data ss:Type="Number">8.856000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156612</Data></Cell>
+			<Cell><Data ss:Type="String">VALLIRANA</Data></Cell>
+			<Cell><Data ss:Type="Number">413.817000</Data></Cell>
+			<Cell><Data ss:Type="Number">19.356000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156621</Data></Cell>
+			<Cell><Data ss:Type="String">VIELHA E MIJARAN</Data></Cell>
+			<Cell><Data ss:Type="Number">426.983000</Data></Cell>
+			<Cell><Data ss:Type="Number">7.939000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156630</Data></Cell>
+			<Cell><Data ss:Type="String">VILADRAU</Data></Cell>
+			<Cell><Data ss:Type="Number">418.400000</Data></Cell>
+			<Cell><Data ss:Type="Number">24.183000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156639</Data></Cell>
+			<Cell><Data ss:Type="String">VILANOVA DE MEIA</Data></Cell>
+			<Cell><Data ss:Type="Number">419.956000</Data></Cell>
+			<Cell><Data ss:Type="Number">10.256000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156648</Data></Cell>
+			<Cell><Data ss:Type="String">VILA-RODONA</Data></Cell>
+			<Cell><Data ss:Type="Number">413.069000</Data></Cell>
+			<Cell><Data ss:Type="Number">13.625000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00156657</Data></Cell>
+			<Cell><Data ss:Type="String">VINEBRE</Data></Cell>
+			<Cell><Data ss:Type="Number">411.850000</Data></Cell>
+			<Cell><Data ss:Type="Number">5.933000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00173105</Data></Cell>
+			<Cell><Data ss:Type="String">PANTA DE DARNIUS - BOADELLA</Data></Cell>
+			<Cell><Data ss:Type="Number">423.419000</Data></Cell>
+			<Cell><Data ss:Type="Number">28.342000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00173114</Data></Cell>
+			<Cell><Data ss:Type="String">PUIGCERDA</Data></Cell>
+			<Cell><Data ss:Type="Number">424.403000</Data></Cell>
+			<Cell><Data ss:Type="Number">19.344000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00173123</Data></Cell>
+			<Cell><Data ss:Type="String">TIVISSA</Data></Cell>
+			<Cell><Data ss:Type="Number">410.431000</Data></Cell>
+			<Cell><Data ss:Type="Number">7.403000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00175559</Data></Cell>
+			<Cell><Data ss:Type="String">OLOT</Data></Cell>
+			<Cell><Data ss:Type="Number">421.881000</Data></Cell>
+			<Cell><Data ss:Type="Number">24.803000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00175568</Data></Cell>
+			<Cell><Data ss:Type="String">LA POBLA DE SEGUR</Data></Cell>
+			<Cell><Data ss:Type="Number">422.439000</Data></Cell>
+			<Cell><Data ss:Type="Number">9.681000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPE00175681</Data></Cell>
+			<Cell><Data ss:Type="String">LES BORGES BLANQUES</Data></Cell>
+			<Cell><Data ss:Type="Number">415.106000</Data></Cell>
+			<Cell><Data ss:Type="Number">8.564000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPM00008284</Data></Cell>
+			<Cell><Data ss:Type="String">VALENCIA</Data></Cell>
+			<Cell><Data ss:Type="Number">394.890000</Data></Cell>
+			<Cell><Data ss:Type="Number">-4.820000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPM00008359</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE</Data></Cell>
+			<Cell><Data ss:Type="Number">383.670000</Data></Cell>
+			<Cell><Data ss:Type="Number">-5.000000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPM00008360</Data></Cell>
+			<Cell><Data ss:Type="String">ALICANTE</Data></Cell>
+			<Cell><Data ss:Type="Number">382.820000</Data></Cell>
+			<Cell><Data ss:Type="Number">-5.580000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPM00008420</Data></Cell>
+			<Cell><Data ss:Type="String">GRANADA / ARMILLA</Data></Cell>
+			<Cell><Data ss:Type="Number">371.330000</Data></Cell>
+			<Cell><Data ss:Type="Number">-36.170000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPW00013024</Data></Cell>
+			<Cell><Data ss:Type="String">MORON DE LA FRONTERA</Data></Cell>
+			<Cell><Data ss:Type="Number">371.833000</Data></Cell>
+			<Cell><Data ss:Type="Number">-56.000000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPW00013025</Data></Cell>
+			<Cell><Data ss:Type="String">ROTA NAS</Data></Cell>
+			<Cell><Data ss:Type="Number">366.500000</Data></Cell>
+			<Cell><Data ss:Type="Number">-63.500000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPW00014010</Data></Cell>
+			<Cell><Data ss:Type="String">ZARAGOZA</Data></Cell>
+			<Cell><Data ss:Type="Number">416.667000</Data></Cell>
+			<Cell><Data ss:Type="Number">-10.333000</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">SPW00014011</Data></Cell>
+			<Cell><Data ss:Type="String">TORREJON</Data></Cell>
+			<Cell><Data ss:Type="Number">404.833000</Data></Cell>
+			<Cell><Data ss:Type="Number">-34.500000</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
