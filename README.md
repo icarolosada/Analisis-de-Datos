@@ -14,9 +14,9 @@ Para realizar este análisis utilizaremos distintas visualizaciones generadas me
 Se han utilizado datos de todas las estaciones meteorológicas españolas, se buscarán patrones y tendencias en los distintos registros entre los años 1990 y 2020 con la finalizad de entender la evolución meteorológica sufrida en este periodo de tiempo. 
 
 Una vez analizados los datos, podremos contestar a preguntas como las que se muestran a continuación: 
-¿Cuál es la tendencia en la evolución de las temperaturas en los últimos años? 
-¿Cuál es la tendencia en la evolución de las precipitaciones en los últimos años?  
-¿Qué grado de correlación hay entre las distintas variables climatológicas registradas? 
+- ¿Cuál es la tendencia en la evolución de las temperaturas en los últimos años? 
+- ¿Cuál es la tendencia en la evolución de las precipitaciones en los últimos años?  
+- ¿Qué grado de correlación hay entre las distintas variables climatológicas registradas? 
 
 Estas, y muchas otras preguntas pueden ser resueltas mediante el uso de herramientas que facilitan la interpretación de los datos mediante visualizaciones interactivas.
 
@@ -28,26 +28,20 @@ Los conjuntos de datos contienen distinta información meteorológica de interé
 ### 3.2 Herramientas
 Para la realización de las tareas de preprocesado de los datos, realizar consultas, modificaciones y gestión de datos se ha utilizado el lenguaje de SQL en MySQL Workbench, todo  descrito en un archivo Markdown alojado en la seccion de código alojado en esta misma carpeta, para revisarlo simplemente pinca en el siguente enlace [Códico](https://github.com/icarolosada/Analisis-de-Datos/blob/main/Codigo.md).
 
-Para la visualizacion de gráficas se ha utilizado el lenguaje de programación Python sobre un Notebook de Jupyter el cuál esta alojado en la carpeta de Visualizaciones que puede acceder [aki](http://xxx.xxx) se ha utilizado la libreria [[Matplotlib](https://matplotlib.org/)](https://matplotlib.org/) 
+Para la visualizacion de gráficas se ha utilizado el lenguaje de programación Python el cual se ejecuta sobre un Notebook de Jupyter, utilizando la libreria [Matplotlib](https://matplotlib.org/) se puede ver todo el codigo y gráficas en la carpeta de Visualizaciones accede pinchando [aki](http://xxx.xxx)  
 
 Jupyter Notebook es una herramienta poderosa y versátil que permite programar, ejecutar y compartir código de manera interactiva. Es un entorno de desarrollo basado en web que facilita la creación y edición de documentos en los que se pueden combinar código, visualizaciones, texto explicativo y otros elementos.
 
-Para la creación de las visualizaciones se ha usado la librería Matplotlib, es una biblioteca completa para crear visualizaciones estáticas, animadas e interactivas en Python
-
-"ggplot2" es un paquete de visualización de datos para el lenguaje de programación R. Se centra en la construcción de gráficos a partir de capas de elementos estéticos, geométricos y estadísticos. ggplot2 ofrece una amplia gama de gráficos estadísticos de alta calidad, incluyendo gráficos de barras, gráficos de líneas, diagramas de dispersión, gráficos de caja y bigotes, y muchos otros  
-
-Si quieres conocer más sobre herramientas que puedan ayudarte en el tratamiento y la visualización de datos, puedes recurrir al informe "Herramientas de procesado y visualización de datos".
-
 ## 4. Tratamiento o preparación de los datos
-Los procesos que te describimos a continuación los encontrarás comentados en el [Notebook](https://colab.research.google.com/drive/1YQurWKgZXEj8uj69YHtDOa1Vv7KpAAKy) que también podrás ejecutar desde Google Colab. 
+Los procesos que te describimos a continuación los encontrarás comentados en el [Notebook](https://xxxxxx) que también podrás ejecutar desde xxxxxx. 
 
-Antes de lanzarnos a construir una visualización efectiva, debemos realizar un tratamiento previo de los datos, prestando especial atención a la obtención de los mismos y validando su contenido, asegurando que se encuentran en el formato adecuado y consistente para su procesamiento y que no contienen errores.  
+Antes de lanzarnos a construir una visualización efectiva, debemos realizar un tratamiento previo de los datos, prestando especial atención a la obtención de los mismos y validando su contenido, asegurando que se encuentran en el formato adecuado y consistente para su procesamiento y que no contienen errores. Todo se ha realizado mediante consultas en MySQL  
 
-Como primer paso del proceso, una vez importadas las librerías necesarias y cargados los conjuntos de datos, es necesario realizar un análisis exploratorio de los datos (EDA) con el fin de interpretar adecuadamente los datos de partida, detectar anomalías, datos ausentes o errores que pudieran afectar a la calidad de los procesos posteriores y resultados. Si quieres conocer más sobre este proceso puedes recurrir a la Guía Práctica de Introducción al Análisis Exploratorio de Datos.  
+Como primer paso del proceso, una vez importados las datos en formato .csv necesarios y cargados a la base de datos, es necesario realizar un análisis exploratorio de los datos (EDA) con el fin de interpretar adecuadamente los datos de partida, detectar anomalías, datos ausentes o errores que pudieran afectar a la calidad de los procesos posteriores y resultados. Todo descrito en el archivo [Codigo](xxxxxx)  
 
-El siguiente paso a dar es generar las tablas de datos preprocesadas que usaremos en las visualizaciones. Para ello, filtraremos los conjuntos de datos iniciales y calcularemos los valores que sean necesarios y de interés para el análisis realizado en este ejercicio. 
+El siguiente paso a dar es generar las tablas de datos preprocesadas que usaremos en las visualizaciones. Para ello, filtraremos los conjuntos de datos iniciales y calcularemos los valores que sean necesarios y de interés para el análisis realizado en este ejercicio, lo pouedes encontrar en el apartado [datos_procesados](xxxxxx)
 
-Una vez terminado el preprocesamiento, obtendremos las tablas de datos “datos_graficas_C” y “datos_graficas_B” las cuales utilizaremos en el siguiente apartado del Notebook para generar las visualizaciones.  
+Una vez terminado el preprocesamiento, obtendremos las tablas de datos “xxxxx” y “xxxxxx” las cuales utilizaremos en el siguiente apartado del Notebook para generar las visualizaciones.  
 
 La estructura del Notebook en la que se realizan los pasos previamente descritos junto a comentarios explicativos de cada uno de ellos, es la siguiente: 
 
@@ -58,7 +52,13 @@ La estructura del Notebook en la que se realizan los pasos previamente descritos
 5. Visualizaciones
 6. Guardado de gráficos
 
-Podrás reproducir este análisis, ya que el código fuente está disponible en nuestra cuenta de GitHub. La forma de proporcionar el código es a través de un documento realizado sobre un Jupyter Notebook que una vez cargado en el entorno de desarrollo podrás ejecutar o modificar de manera sencilla. Debido al carácter divulgativo de este post y de cara a favorecer el entendimiento de los lectores no especializados, el código no pretende ser el más eficiente, sino facilitar su comprensión por lo que posiblemente se te ocurrirán muchas formas de optimizar el código propuesto para lograr fines similares. ¡Te animamos a que lo hagas! 
+Podrás reproducir este análisis, ya que el código fuente está disponible en nuestra la de GitHub. La forma de proporcionar el código es a través de un documento realizado sobre un Jupyter Notebook que una vez cargado en el entorno de desarrollo podrás ejecutar o modificar de manera sencilla. Debido al carácter divulgativo de este post y de cara a favorecer el entendimiento de los lectores no especializados, el código no pretende ser el más eficiente, sino facilitar su comprensión por lo que posiblemente se te ocurrirán muchas formas de optimizar el código propuesto para lograr fines similares. ¡Te animo a que lo hagas! 
+
+
+* * *
+- - -
+_ _ _
+
 
 ## 5. Visualizaciones
 Diversos tipos de visualizaciones y gráficos se han realizado con la finalidad de extraer información sobre las tablas de datos preprocesadas y responder a las preguntas iniciales planteadas en este ejercicio. Como se ha mencionado previamente, se ha utilizado el paquete “ggplot2” de R para realizar las visualizaciones.  
