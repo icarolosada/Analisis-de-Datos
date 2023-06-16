@@ -1,8 +1,12 @@
 # Análisis Histórico del Clima: Tendencias y Variabilidad en España
 
 ## 1. Introducción
-El clima es un factor fundamental que influye en diversos aspectos de nuestra vida, desde la agricultura y la seguridad alimentaria hasta la planificación urbana y la gestión de recursos hídricos. Comprender las tendencias y la variabilidad del clima es crucial para tomar decisiones informadas y desarrollar estrategias efectivas en respuesta al cambio climático.En este proyecto, nos centraremos en analizar el histórico del clima en España.Utilizando una combinación de datos recopilados de diversas fuentes confiables, como la [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/), [Embalses.net](https://www.embalses.net/) y [DatosClima.es](https://datosclima.es/index.htm), investigaremos las tendencias y la variabilidad de variables climáticas clave, como la temperatura y la precipitación, a lo largo del tiempo.  
+El clima es un factor fundamental que influye en diversos aspectos de nuestra vida, desde la agricultura y la seguridad alimentaria hasta la planificación urbana y la gestión de recursos hídricos. Comprender las tendencias y la variabilidad del clima es crucial para tomar decisiones informadas y desarrollar estrategias efectivas en respuesta al cambio climático.En este proyecto, nos centraremos en analizar el histórico del clima en España.Utilizando una combinación de datos recopilados de diversas fuentes confiables, como: 
+- [National Oceanic and Atmospheric Administration (NOAA)](https://www.noaa.gov/), 
+- [Embalses.net](https://www.embalses.net/) y 
+- [DatosClima.es](https://datosclima.es/index.htm), 
 
+Se pretende investigar las tendencias y la variabilidad de variables climáticas clave, como la temperatura y la precipitación, a lo largo del tiempo.  
 
 Para llevar a cabo este análisis, utilizaremos técnicas de procesamiento de datos y visualización para explorar y comprender los patrones climáticos en diferentes regiones de España. También examinaremos la relación entre las variables climáticas y otros fenómenos, como la disponibilidad de agua en embalses y estaciones hidrológicas.
 
