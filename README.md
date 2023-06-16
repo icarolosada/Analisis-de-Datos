@@ -37,7 +37,7 @@ Para la visualizacion de gráficas se ha utilizado el lenguaje de programación 
 Jupyter Notebook es una herramienta poderosa y versátil que permite programar, ejecutar y compartir código de manera interactiva. Es un entorno de desarrollo basado en web que facilita la creación y edición de documentos en los que se pueden combinar código, visualizaciones, texto explicativo y otros elementos.
 
 ## 4. Tratamiento o preparación de los datos
-Los procesos que te describimos a continuación los encontrarás comentados en [Jupyter Notebook](https://xxxxxx) que también podrás ejecutar desde xxxxxx. 
+Los procesos que te describimos a continuación los encontrarás comentados en un [Notebook de Jupyter ]([https://xxxxxx](https://jupyter.org/)) que también podrás ejecutar desde este [Notebook2](https://github.com/icarolosada/Analisis-de-Datos/blob/master/Codigo/Notebook2.ipynb) alojado este mismo post de Github en la carpeta de código. 
 
 Antes de lanzarnos a construir una visualización efectiva, debemos realizar un tratamiento previo de los datos, prestando especial atención a la obtención de los mismos y validando su contenido, asegurando que se encuentran en el formato adecuado y consistente para su procesamiento y que no contienen errores. Todo se ha realizado mediante consultas en MySQL descritas el archivo [SQL_Query](https://github.com/icarolosada/Analisis-de-Datos/blob/master/Codigo/SQL_Query.md) 
 
