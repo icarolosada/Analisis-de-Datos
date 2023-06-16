@@ -33,7 +33,7 @@ Los conjuntos de datos recopilan información meteorológica relevante y están 
 ### 3.2 Herramientas
 Para la realización de las tareas de preprocesado de los datos, realizar consultas, modificaciones y gestión de datos se ha utilizado el lenguaje de SQL en MySQL Workbench, todo  descrito en un archivo Markdown alojado en la seccion de código alojado en esta misma carpeta, para revisarlo simplemente pinca en el siguente enlace [Códico](https://github.com/icarolosada/Analisis-de-Datos/blob/main/Codigo.md).
 
-Para la visualizacion de gráficas se ha utilizado el lenguaje de programación Python el cual se ejecuta sobre un Notebook de Jupyter, utilizando la libreria [Matplotlib](https://matplotlib.org/) se puede ver todo el codigo y gráficas en la carpeta de Visualizaciones accede pinchando [no enlazado](http://xxx.xxx)  
+Para la visualizacion de gráficas se ha utilizado el lenguaje de programación Python el cual se ejecuta sobre un Notebook de Jupyter, utilizando la libreria [Matplotlib](https://matplotlib.org/) se puede ver todo el codigo y gráficas en la carpeta de Visualizaciones accede pinchando [no enlazado](http://google.com)  
 
 Jupyter Notebook es una herramienta poderosa y versátil que permite programar, ejecutar y compartir código de manera interactiva. Es un entorno de desarrollo basado en web que facilita la creación y edición de documentos en los que se pueden combinar código, visualizaciones, texto explicativo y otros elementos.
 
