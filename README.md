@@ -33,7 +33,7 @@ Los conjuntos de datos recopilan información meteorológica relevante y están 
 ### 3.2 Herramientas
 Para la realización de las tareas de preprocesado de los datos, realizar consultas, modificaciones y gestión de datos se ha utilizado el lenguaje de SQL en MySQL Workbench, todo  descrito en un archivo Markdown alojado en la seccion de código alojado en esta misma carpeta, para revisarlo simplemente pinca en el siguente enlace [Códico](https://github.com/icarolosada/Analisis-de-Datos/blob/main/Codigo.md).
 
-Para la visualizacion de gráficas se ha utilizado el lenguaje de programación Python el cual se ejecuta sobre un Notebook de Jupyter, utilizando la libreria [Matplotlib](https://matplotlib.org/) se puede ver todo el codigo y gráficas en la carpeta de Visualizaciones accede pinchando [no enlazado](http://xxx.xxx)  
+Para la visualizacion de gráficas se ha utilizado el lenguaje de programación Python el cual se ejecuta sobre un Notebook de Jupyter, utilizando la libreria [Matplotlib](https://matplotlib.org/) se puede ver todo el codigo y gráficas en la carpeta de Visualizaciones accede pinchando [no enlazado](http://google.com)  
 
 Jupyter Notebook es una herramienta poderosa y versátil que permite programar, ejecutar y compartir código de manera interactiva. Es un entorno de desarrollo basado en web que facilita la creación y edición de documentos en los que se pueden combinar código, visualizaciones, texto explicativo y otros elementos.
 
@@ -56,43 +56,21 @@ La estructura del Notebook en la que se realizan los pasos previamente descritos
 3. Análisis exploratorio de datos (EDA)
 4. Preparación de las tablas de datos
 5. Visualizaciones
-6. xxxxxxxx
+6. Guardado de gráficos
 
 Podrás reproducir este análisis, ya que el código fuente está disponible en nuestra la de GitHub. La forma de proporcionar el código es a través de un documento realizado sobre un Jupyter Notebook que una vez cargado en el entorno de desarrollo podrás ejecutar o modificar de manera sencilla. EL carácter de este post es totalmente informativo y quiere favorecer el entendimiento de los lectores no especializados, el código no pretende ser el más eficiente, sino facilitar su comprensión por lo que posiblemente se te ocurrirán muchas formas de optimizar el código propuesto para lograr fines similares. ¡Te animo a que lo hagas! 
 
 
-* * *
-- - -
-_ _ _
-
-
 ## 5. Visualizaciones
-xxxxxxxxx
-xxxxxxxxxx
+Se han creado diversas visualizaciones y gráficos utilizando la biblioteca de visualización de datos matplotlib en Python, con el objetivo de extraer información de las tablas de datos preprocesadas y responder a las preguntas iniciales planteadas en este ejercicio.
 
-## 5.1 Gráficos de líneas
-xxxxxxx
-xxxxxx
+Matplotlib es una biblioteca de visualización ampliamente utilizada en el lenguaje de programación Python. Permite generar una amplia variedad de gráficos, como gráficos de líneas, de barras, de dispersión, de torta, entre otros. Con matplotlib, es posible personalizar cada aspecto de las visualizaciones, incluyendo los ejes, etiquetas, colores y estilos.
 
-## 5.2 Gráficos de barras
-xxxxxxx
-xxxxxx
+En la siguiente [carpeta](https://github.com/icarolosada/Analisis-de-Datos/tree/master/Visualizaciones), encontrarás todas las visualizaciones generadas utilizando matplotlib, que se describen en los siguientes apartados.
 
-## 5.3 Histogramas
-xxxxxxx
-## 5.4 Diagramas de cajas y bigotes
-xxxxxxx
-xxxxxx
-## 5.5 Gráficos de sectores
-xxxxxx
-xxxxxx
+## 5.1 Gráficos
+Los gráficos son representaciones visuales de datos que nos permiten comunicar información de manera efectiva. Hay una amplia variedad de tipos de gráficos disponibles, como gráficos de barras, gráficos de líneas, gráficos de dispersión y gráficos circulares, entre otros. Los gráficos de barras son útiles para comparar la magnitud de diferentes categorías y para visualizar diferencias entre ellas. 
 
-## 5.6 Gráficos de sectores
-xxxxxx
-xxxxxxxx
-## 5.7 Matriz de correlación
-xxxxx
-xxxxxx
 # 6. Conclusiones del ejercicio
 xxxxxx
 xxxxxx

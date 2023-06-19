@@ -1,0 +1,24 @@
+asi_ha_evolucionado_el_volumen_y_la_capacidad_de_los_embalses_en_españa.csv
+
+Fuente: Embalses.net
+Descripción: Este archivo contiene datos sobre la evolución del volumen y la capacidad de los embalses en España a lo largo del tiempo. Los datos fueron recopilados por Embalses.net, una fuente especializada en información relacionada con embalses.
+Nombre del archivo: consumo_medio_de_agua_de_los_hogares_por_comunidad_autonoma.csv
+
+Fuente: DatosClima.es
+Descripción: Este archivo proporciona datos sobre el consumo medio de agua en los hogares de cada comunidad autónoma. Los datos fueron recopilados por DatosClima.es, una fuente de información relacionada con el clima y el medio ambiente.
+Nombre del archivo: evolucion_del_agua_disponible_en_españa.csv
+
+Fuente: National Oceanic and Atmospheric Administration (NOAA)
+Descripción: Este archivo contiene información sobre la evolución del agua disponible en España. Los datos fueron recopilados por la National Oceanic and Atmospheric Administration (NOAA), una agencia gubernamental que se especializa en el estudio del clima y los océanos.
+Nombre del archivo: evolucion_del_agua_embalsada_en_españa.csv
+
+Fuente: National Oceanic and Atmospheric Administration (NOAA)
+Descripción: Este archivo proporciona datos sobre la evolución del agua embalsada en España. Los datos fueron recopilados por la National Oceanic and Atmospheric Administration (NOAA), una agencia gubernamental encargada del estudio del clima y los océanos.
+Nombre del archivo: T_Datos Embalses 1988-2023.csv
+
+Fuente: Embalses.net
+Descripción: Este archivo contiene datos históricos sobre los embalses en España desde 1988 hasta 2023. Los datos fueron recopilados por Embalses.net, una fuente especializada en información relacionada con embalses.
+Nombre del archivo: SP000004452.csv
+
+Fuente: Desconocida
+Descripción: Este archivo contiene datos cuya fuente no ha sido especificada. Se recomienda verificar y proporcionar información adicional sobre la fuente y la descripción de los datos.

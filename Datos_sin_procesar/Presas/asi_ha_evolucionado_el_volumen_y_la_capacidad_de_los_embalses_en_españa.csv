@@ -1,60 +1,37 @@
-﻿"Año";"Periodo";"Agua embalsada";"Capacidad de los embalses"
-"1988";"Semana 23";"30.046";"42.788"
-"1989";"Semana 23";"23.416";"42.794"
-"1990";"Semana 23";"29.393";"48.678"
-"1991";"Semana 23";"29.081";"48.678"
-"1992";"Semana 23";"22.714";"48.767"
-"1993";"Semana 23";"23.715";"48.952"
-"1994";"Semana 23";"26.520";"51.114"
-"1995";"Semana 23";"19.958";"51.095"
-"1996";"Semana 23";"37.040";"51.562"
-"1997";"Semana 23";"37.173";"51.559"
-"1998";"Semana 23";"42.346";"51.564"
-"1999";"Semana 23";"32.781";"53.069"
-"2000";"Semana 23";"34.499";"53.069"
-"2001";"Semana 23";"40.753";"53.191"
-"2002";"Semana 23";"32.964";"53.224"
-"2003";"Semana 23";"40.921";"53.246"
-"2004";"Semana 23";"40.704";"53.198"
-"2005";"Semana 23";"31.016";"53.198"
-"2006";"Semana 23";"30.103";"53.252"
-"2007";"Semana 23";"35.395";"54.148"
-"2008";"Semana 23";"32.187";"54.308"
-"2009";"Semana 23";"32.722";"54.364"
-"2010";"Semana 23";"46.114";"55.581"
-"2011";"Semana 23";"45.030";"55.590"
-"2012";"Semana 23";"36.755";"55.590"
-"2013";"Semana 23";"47.306";"55.326"
-"2014";"Semana 23";"45.431";"55.343"
-"2015";"Semana 23";"41.745";"55.977"
-"2016";"Semana 23";"41.702";"55.977"
-"2017";"Semana 23";"31.618";"55.973"
-"2018";"Semana 23";"40.591";"56.074"
-"2019";"Semana 23";"33.587";"56.118"
-"2020";"Semana 23";"36.806";"55.622"
-"2021";"Semana 23";"33.098";"55.899"
-"2022";"Semana 23";"27.489";"56.136"
-"2023";"Semana 23";"26.588";"56.069"
-;;;
-;;;
-"Métrica":"Agua embalsada"
-"Fuente":"Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente"
-"Clasificación":""
-"Unidad":"Agua embalsada"
-"Escala":"Unidades"
-"EscalaFactorPotencia10":"0"
-"SonDatosNumericos":"True"
-;;;
-;;;
-"Métrica":"Capacidad de los embalses"
-"Fuente":"Ministerio de Agricultura y Pesca, Alimentación y Medio Ambiente"
-"Clasificación":""
-"Unidad":"Capacidad de los embalses"
-"Escala":"Unidades"
-"EscalaFactorPotencia10":"0"
-"SonDatosNumericos":"True"
-;;;
-;;;
-"Url":"https://www.epdata.es/evolucion-agua-embalsada-capacidad-reservas-espana/874be4ee-4011-4908-8e88-26b3702decba/espana/106"
-"Titulo":"Así ha evolucionado el volumen y la capacidad de los embalses en España"
-"Subtitulo":"Evolución del agua embalsada y la capacidad de las reservas en España"
+﻿Año;Agua embalsada;Capacidad de los embalses
+1988;30.046;42.788
+1989;23.416;42.794
+1990;29.393;48.678
+1991;29.081;48.678
+1992;22.714;48.767
+1993;23.715;48.952
+1994;26.520;51.114
+1995;19.958;51.095
+1996;37.040;51.562
+1997;37.173;51.559
+1998;42.346;51.564
+1999;32.781;53.069
+2000;34.499;53.069
+2001;40.753;53.191
+2002;32.964;53.224
+2003;40.921;53.246
+2004;40.704;53.198
+2005;31.016;53.198
+2006;30.103;53.252
+2007;35.395;54.148
+2008;32.187;54.308
+2009;32.722;54.364
+2010;46.114;55.581
+2011;45.030;55.590
+2012;36.755;55.590
+2013;47.306;55.326
+2014;45.431;55.343
+2015;41.745;55.977
+2016;41.702;55.977
+2017;31.618;55.973
+2018;40.591;56.074
+2019;33.587;56.118
+2020;36.806;55.622
+2021;33.098;55.899
+2022;27.489;56.136
+2023;26.588;56.069
