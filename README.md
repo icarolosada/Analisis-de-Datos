@@ -8,7 +8,7 @@ En este proyecto, me he enfocado en analizar el histórico del clima en España,
 - [Embalses.net](https://www.embalses.net/) y 
 - [DatosClima.es](https://datosclima.es/index.htm), 
 
-Se pretende investigar las tendencias y la variabilidad de variables climáticas clave, como la temperatura y la precipitación, a lo largo del tiempo.  
+Se pretende investigar las tendencias y la variabilidad de variables climáticas clave, como la temperatura y la precipitación, a lo largo del tiempo.  
 Para llevar a cabo este análisis, he utilizado técnicas de procesamiento de datos y visualización para explorar y comprender los patrones climáticos en diferentes regiones de España. También he examinado la relación entre las variables climáticas y otros fenómenos, como la disponibilidad de agua en embalses y estaciones hidrológicas.
 
 ## 2. Objetivo
@@ -16,7 +16,7 @@ El objetivo central de este proyecto radica en adquirir información valiosa sob
 
 Para realizar este análisis utilizaremos distintas visualizaciones generadas mediante la librería “matplotlib” del lenguaje de programación “Python” 
 
-Se han utilizado datos de 207 estaciones meteorológicas españolas repartidas por cada provincia Española, se buscarán patrones y tendencias en los distintos registros entre los años 1990 y 2020 con la finalizad de entender la evolución meteorológica sufrida en este periodo de tiempo. 
+Se han utilizado datos de 207 estaciones meteorológicas españolas repartidas por cada provincia española, se buscarán patrones y tendencias en los distintos registros entre los años 1990 y 2020 con la finalizad de entender la evolución meteorológica sufrida en este periodo de tiempo. 
 
 Una vez analizados los datos, podremos contestar a preguntas como las que se muestran a continuación: 
 - ¿Cuál es la tendencia en la evolución de las temperaturas en los últimos años? 
@@ -31,9 +31,9 @@ Los conjuntos de datos recopilan información meteorológica relevante y están 
 
 
 ### 3.2 Herramientas
-Para la realización de las tareas de preprocesado de los datos, realizar consultas, modificaciones y gestión de datos se ha utilizado el lenguaje de SQL en MySQL Workbench, todo  descrito en un archivo Markdown alojado en la seccion de código alojado en esta misma carpeta, para revisarlo simplemente pinca en el siguente enlace [Códico](https://github.com/icarolosada/Analisis-de-Datos/blob/main/Codigo.md).
+Para la realización de las tareas de preprocesado de los datos, realizar consultas, modificaciones y gestión de datos se ha utilizado el lenguaje de SQL en MySQL Workbench, todo descrito en un archivo Markdown alojado en la sección de código alojado en esta misma carpeta, para revisarlo simplemente pincha en el siguiente enlace [Códico](https://github.com/icarolosada/Analisis-de-Datos/blob/main/Codigo.md).
 
-Para la visualizacion de gráficas se ha utilizado el lenguaje de programación Python el cual se ejecuta sobre un Notebook de Jupyter, utilizando la libreria [Matplotlib](https://matplotlib.org/) se puede ver todo el codigo y gráficas en la carpeta de Visualizaciones accede pinchando en [visualizaciones](https://github.com/icarolosada/Analisis-de-Datos/tree/master/Visualizaciones/Visualizaciones)  
+Para la visualización de gráficas se ha utilizado el lenguaje de programación Python el cual se ejecuta sobre un Notebook de Jupyter, utilizando la librería [Matplotlib](https://matplotlib.org/) se puede ver todo el código y gráficas en la carpeta de Visualizaciones accede pinchando en [visualizaciones](https://github.com/icarolosada/Analisis-de-Datos/tree/master/Visualizaciones/Visualizaciones)  
 
 Jupyter Notebook es una herramienta poderosa y versátil que permite programar, ejecutar y compartir código de manera interactiva. Es un entorno de desarrollo basado en web que facilita la creación y edición de documentos en los que se pueden combinar código, visualizaciones, texto explicativo y otros elementos.
 
