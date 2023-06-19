@@ -152,6 +152,6 @@ GROUP BY YEAR(fecha);
 ```sql
 SELECT YEAR(fecha) AS año, AVG(temp_max) AS media_temp_max, AVG(temp_min) AS media_temp_min
 FROM historico
-GROUP BY YEAR(fecha);![image](https://github.com/icarolosada/Analisis-de-Datos/assets/122732166/b3f9e59b-cf9c-481f-9dbd-2a0ce8720168)
+GROUP BY YEAR(fecha);
 ```
    
