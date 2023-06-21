@@ -78,21 +78,23 @@ En el marco de este ejercicio de análisis de datos, nuestro objetivo radica en 
 ## Temperaturas
 
 
-![Imagen test](Visualizaciones/Visualizaciones/Media_lluvia_años_promedio.png)
+![Media temp](Visualizaciones/Visualizaciones/Media_lluvia_años_promedio.png)
 
 Comenzando por las temperaturas medias máximas, se ha observado un descenso, mientras que las temperaturas medias mínimas han experimentado un aumento. En relación a la temperatura media anual, se ha constatado un descenso notable desde principios de siglo, donde se registraba una media de 15.1°C. A mitad de siglo, se alcanzó la temperatura más baja registrada, con un valor de 12.2°C, seguido de un ligero aumento hasta los 15.3°C. Es relevante destacar que durante las décadas de los 40, 50 y 60 se ha observado una temperatura notablemente más baja. Aunque esto podría sugerir un patrón cíclico, es importante señalar que se requiere un análisis a largo plazo para respaldar esta teoría, lo cual está fuera del alcance de este ejercicio. 
 
 ## Pluviometría
 
+![Media lluvia](Visualizaciones/Visualizaciones/Media_lluvia_años_tendencia.png)
 
 Continuando con el análisis de la pluviométrico, los datos revelan un aumento significativo en la cantidad de precipitaciones registradas. Específicamente, se observa un incremento notable desde 1900 hasta la década de los 60. Posteriormente, el gráfico muestra una estabilización, lo que sugiere que el promedio de precipitación en el territorio español se ha mantenido constante. Es importante destacar que esta diferencia se debe, en gran medida, al incremento en el número de estaciones meteorológicas desde principios de siglo hasta los años 60-70. Esto ha permitido una mejor y más extensa recolección de datos pluviométricos. 
 
 ## Embalses
 
+![Embalses](Visualizaciones/Visualizaciones/Evolución_agua_embalsada_columnas.png)
 
 En España, existen un total de 372 embalses con una capacidad de almacenamiento de agua de 56.000 hectómetros cúbicos (hm³). La gráfica muestra la evolución del agua embalsada en comparación con la capacidad durante los últimos 14 años. El punto más alto de agua embalsada se alcanzó en abril de 2013, registrando 47.400 hectómetros cúbicos. A partir de ese momento, se observa un descenso en el nivel de agua embalsada.
 
-
+![Embalses años](Visualizaciones/Visualizaciones/Evolución_agua_embalsada.png)
  
 Podemos observar que el año 1995 ha registrado una menor cantidad de agua embalsada. Es importante destacar que esta tendencia se repite en varios años, lo cual se atribuye, en parte, al carácter estacionario del clima en España. Los patrones climáticos estables y la variabilidad en la disponibilidad de precipitaciones pueden influir en los niveles de agua embalsada a lo largo de los años. Es fundamental considerar estas fluctuaciones al planificar la gestión hídrica.
 
