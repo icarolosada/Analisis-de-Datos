@@ -78,7 +78,7 @@ En el marco de este ejercicio de análisis de datos, nuestro objetivo radica en 
 ## Temperaturas
 
 
-![Imagen test](https://github.com/icarolosada/Analisis-de-Datos/blob/master/Visualizaciones/Visualizaciones/Media_temp_años_promedio.png)
+![Imagen test](Visualizaciones/Visualizaciones/Media_lluvia_años_promedio.png)
 
 Comenzando por las temperaturas medias máximas, se ha observado un descenso, mientras que las temperaturas medias mínimas han experimentado un aumento. En relación a la temperatura media anual, se ha constatado un descenso notable desde principios de siglo, donde se registraba una media de 15.1°C. A mitad de siglo, se alcanzó la temperatura más baja registrada, con un valor de 12.2°C, seguido de un ligero aumento hasta los 15.3°C. Es relevante destacar que durante las décadas de los 40, 50 y 60 se ha observado una temperatura notablemente más baja. Aunque esto podría sugerir un patrón cíclico, es importante señalar que se requiere un análisis a largo plazo para respaldar esta teoría, lo cual está fuera del alcance de este ejercicio. 
 
