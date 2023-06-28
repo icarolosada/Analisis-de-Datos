@@ -102,3 +102,14 @@ En España, existen un total de 372 embalses con una capacidad de almacenamiento
 Podemos observar que el año 1995 ha registrado una menor cantidad de agua embalsada. Es importante destacar que esta tendencia se repite en varios años, lo cual se atribuye, en parte, al carácter estacionario del clima en España. Los patrones climáticos estables y la variabilidad en la disponibilidad de precipitaciones pueden influir en los niveles de agua embalsada a lo largo de los años. Es fundamental considerar estas fluctuaciones al planificar la gestión hídrica.
 
 
+## Dashboard
+
+![Tableau](Visualizaciones/Visualizaciones/Dashboard.png)
+
+En esta sección se presenta una serie de visualizaciones realizadas con la herramienta Tableau, que nos permiten observar de manera más efectiva la relación entre las variables estudiadas. A través de estos gráficos interactivos, se puede explorar de forma integrada la evolución de las temperaturas, las precipitaciones y los niveles de agua embalsada en España a lo largo del tiempo. [Dashboard](https://public.tableau.com/app/profile/icaro.losada/viz/Book1_16872460179960/Dashboard1?publish=yes)
+
+En primer lugar, se muestra una serie temporal que ilustra la evolución de las temperaturas medias máximas y mínimas, así como la temperatura media anual. Estas visualizaciones nos ayudan a identificar patrones estacionales y cambios a largo plazo en las temperaturas registradas en España.
+
+A continuación, se presenta un gráfico de barras que muestra la variación en las precipitaciones anuales. Este gráfico permite examinar cómo ha evolucionado la cantidad de precipitaciones a lo largo del tiempo y detectar posibles periodos de aumento o disminución significativos.
+
+Finalmente, se incluye un gráfico de líneas que muestra la evolución de los niveles de agua embalsada en comparación con la capacidad total de los embalses en España. Esta visualización proporciona información sobre cómo la disponibilidad de agua almacenada ha variado a lo largo de los años y cómo se relaciona con las precipitaciones registradas.
