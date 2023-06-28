@@ -75,7 +75,7 @@ Los gráficos son representaciones visuales de datos que nos permiten comunicar 
 
 En el marco de este ejercicio de análisis de datos, nuestro objetivo radica en abordar una serie de incógnitas relacionadas con la evolución de las temperaturas, precipitaciones y otras variables registradas en varias estaciones climatológicas en España desde 1890. 
 
-## Temperaturas 
+## 6.1 Temperaturas 
 ##### datos obtenidos de (NOAA)
 
 
@@ -83,14 +83,14 @@ En el marco de este ejercicio de análisis de datos, nuestro objetivo radica en 
 
 Comenzando por las temperaturas medias máximas, se ha observado un descenso, mientras que las temperaturas medias mínimas han experimentado un aumento. En relación a la temperatura media anual, se ha constatado un descenso notable desde principios de siglo, donde se registraba una media de 15.1°C. A mitad de siglo, se alcanzó la temperatura más baja registrada, con un valor de 12.2°C, seguido de un ligero aumento hasta los 15.3°C. Es relevante destacar que durante las décadas de los 40, 50 y 60 se ha observado una temperatura notablemente más baja. Aunque esto podría sugerir un patrón cíclico, es importante señalar que se requiere un análisis a largo plazo para respaldar esta teoría, lo cual está fuera del alcance de este ejercicio. 
 
-## Pluviometría
+## 6.2 Pluviometría
 ##### datos obtenidos de (NOAA)
 
 ![Media lluvia](Visualizaciones/Visualizaciones/Media_lluvia_años_tendencia.png)
 
 Continuando con el análisis de la pluviométrico, los datos revelan un aumento significativo en la cantidad de precipitaciones registradas. Específicamente, se observa un incremento notable desde 1900 hasta la década de los 60. Posteriormente, el gráfico muestra una estabilización, lo que sugiere que el promedio de precipitación en el territorio español se ha mantenido constante. Es importante destacar que esta diferencia se debe, en gran medida, al incremento en el número de estaciones meteorológicas desde principios de siglo hasta los años 60-70. Esto ha permitido una mejor y más extensa recolección de datos pluviométricos. 
 
-## Embalses
+## 6.3 Embalses
 ##### Datos obtenidos de (AEMET y SAIH)
 
 ![Embalses](Visualizaciones/Visualizaciones/Evolución_agua_embalsada_columnas.png)
@@ -102,11 +102,11 @@ En España, existen un total de 372 embalses con una capacidad de almacenamiento
 Podemos observar que el año 1995 ha registrado una menor cantidad de agua embalsada. Es importante destacar que esta tendencia se repite en varios años, lo cual se atribuye, en parte, al carácter estacionario del clima en España. Los patrones climáticos estables y la variabilidad en la disponibilidad de precipitaciones pueden influir en los niveles de agua embalsada a lo largo de los años. Es fundamental considerar estas fluctuaciones al planificar la gestión hídrica.
 
 
-## Dashboard
+## 6.4 Dashboard
 
 ![Tableau](Visualizaciones/Visualizaciones/Dashboard.png)
 
-En esta sección se presenta una serie de visualizaciones realizadas con la herramienta Tableau, que nos permiten observar de manera más efectiva la relación entre las variables estudiadas. A través de estos gráficos interactivos, se puede explorar de forma integrada la evolución de las temperaturas, las precipitaciones y los niveles de agua embalsada en España a lo largo del tiempo. [Dashboard](https://public.tableau.com/app/profile/icaro.losada/viz/Book1_16872460179960/Dashboard1?publish=yes)
+En esta sección se presenta una serie de visualizaciones realizadas con la herramienta Tableau, que nos permiten observar de manera más efectiva la relación entre las variables estudiadas. A través de estos gráficos interactivos, se puede explorar de forma integrada la evolución de las temperaturas, las precipitaciones y los niveles de agua embalsada en España a lo largo del tiempo. Para acceder al original haga click en el siguiente enlace [Dashboard](https://public.tableau.com/app/profile/icaro.losada/viz/Book1_16872460179960/Dashboard1?publish=yes)
 
 En primer lugar, se muestra una serie temporal que ilustra la evolución de las temperaturas medias máximas y mínimas, así como la temperatura media anual. Estas visualizaciones nos ayudan a identificar patrones estacionales y cambios a largo plazo en las temperaturas registradas en España.
 
